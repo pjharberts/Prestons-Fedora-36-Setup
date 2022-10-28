@@ -109,8 +109,6 @@ Turn on community plugins and click Browse. Install and enable the following plu
     - Change the "Minimial Theme Settings: Toggle focus mode" hotkey to Ctrl+Alt+Shift+F
 - "Obsidian Better Internal Link Inserter" by Salmund
 	- Remove the shortcut for "Insert Markdown Link" and change "Obsidian Better Internal Link Inserter: Insert an internal link" to Ctrl+K
-- "Paste URL into selection" by Denis Olehov
-  - Behavior on pasting URL when nothing is selected: Insert [](url)
 - "QuickShare" by Maxime Cannoodt (@mcndt)
 - "Quick Latex for Obsidian
 - "Shortcuts extender" by kitchenrunner
