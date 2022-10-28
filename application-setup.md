@@ -1,4 +1,4 @@
-# Program Setup
+# Application Setup
 
 1. Vim
 2. Firefox
