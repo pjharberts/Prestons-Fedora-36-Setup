@@ -89,7 +89,6 @@ Turn on community plugins and click Browse. Install and enable the following plu
 	- Go to Hotkeys in Options and change the following:
 		- Excalidraw: Create a new drawing - IN THE CURRENT ACTIVE PANE - and embed into active document: Ctrl+M
 		- Excalidraw: Create a new drawing - IN A NEW PANE - and embed into active document: Ctrl+Shift+M
-- "File Explorer Markdown Titles" by Dylan Elliot
 - "Find and replace in selection" by Dmitry Savosh
 - "Footnote Shortcut" by Alexis Roneau, Micha Brugger
 - "Hider" by @kepano
