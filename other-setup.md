@@ -3,3 +3,4 @@
 File Associations
 Lidswitch Config
 SSH
+Setup Conventions
