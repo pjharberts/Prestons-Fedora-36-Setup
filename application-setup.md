@@ -11,10 +11,11 @@
 9. Tresorit
 10. Obsidian
 11. Todoist
-12. PyCharm Community
-13. gcloud CLI
-14. Docker
-15. FFMPEG
-16. GStreamer Multimedia Codecs
-17. Color Picker
-18. Neofetch
+12. p7zip
+13. PyCharm Community
+14. gcloud CLI
+15. Docker
+16. FFMPEG
+17. GStreamer Multimedia Codecs
+18. Color Picker
+19. Neofetch
