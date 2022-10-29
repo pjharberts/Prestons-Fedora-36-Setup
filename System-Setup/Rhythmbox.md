@@ -12,3 +12,5 @@ Open Preferences, and change the following settings:
 - General
 	- Visible Columns
 		- Genre: Off
+
+Press Ctrl+B to hide the browser.
