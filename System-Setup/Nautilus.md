@@ -15,7 +15,7 @@ Open Preferences, and change the following settings
 Open Terminal, and run the following command:
 
 ```
-cd && mkdir Audio Applications GitHub
+cd && mkdir Audio Applications GitHub Documents/Vault
 ```
 
 Open Nautilus, and drag each created directory to the left sidebar to create a bookmark.
