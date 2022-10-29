@@ -16,6 +16,9 @@ Open Settings, and change the following:
 		- Show Notifications on Lock Screen: Off
 - Power
 	- Power Mode: Choose appropriate power mode
+    - Power Saving Options
+        - Automatic Screen Brightness: Off
+        - Dim Screen: Off
 - Mouse & Touchpad
 	- Touchpad
 		- Tap to Click: On
