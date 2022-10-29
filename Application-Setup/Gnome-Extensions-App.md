@@ -34,7 +34,7 @@ Download the following extensions from this [website](https://extensions.gnome.o
 - "Clipboard Indicator" by Tudmotu
 	- Remove whitespace around text: On
 - "Date Menu Formatter" by mkakubowski
-	- Pattern: `MMMM d  k:mm ' '`
+	- Pattern: `h:mm  EEE, MMMM d'  '`
 	- Font size: 11
 - "GSConnect" by daniellandau
 - "Just Perfection" by JustPerfection

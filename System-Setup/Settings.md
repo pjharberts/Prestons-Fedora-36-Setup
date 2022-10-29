@@ -54,3 +54,4 @@ Open Settings, and change the following:
 		- Typora; flatpak run io.typora.Typora; Ctrl+Alt+T
 - Date & Time
 	- Time Zone: Choose appropriate time zone
+    - Time Format: AM/PM
