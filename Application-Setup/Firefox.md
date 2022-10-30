@@ -67,12 +67,16 @@ Open a new tab and right click an empty space on the Bookmarks toolbar. Change t
 
 - Bookmarks Toolbar: Never show
 
+## Theme
+
+Open Settings, and click the Extensions & Themes button at the bottom. Search and install "Oled Borderless Pitch Black" by Andrei Petcu.
+
 ## Extensions
 
 Open Settings, and click the Extensions & Themes button at the bottom. Under the Extensions tab, click "Find more add-ons." Search and install the following extensions:
 
 - "Bitwarden - Free Password Manager" by Bitwarden Inc.
-- "Dark Reader" by Alexander Shutau
+- "Dark Background and Light Text" by Mikhail Khvoinitsky
 - "Enhancer for YouTube" by Maxime RF
 - "GSConnect" by daniellandau
 - "Return YouTube Dislike" by Dmitry Selivanov

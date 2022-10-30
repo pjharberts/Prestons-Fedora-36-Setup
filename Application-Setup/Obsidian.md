@@ -97,11 +97,14 @@ Turn on community plugins and click Browse. Install and enable the following plu
 	- Hide title bar app ribbon: On
 	- Hide status bar: On
 	- Hide vault name: On
+    - Hide scroll bars: On
 	- Hide metadata block in Reading View: On
 - "Homepage" by mirnovov
 	- Homepage: Create file and enter "Home"
 	- Set the hotkey for "Homepage: Open homepage" to Ctrl+Shift+O
 - "Minimal Theme" by @kepano
+    - Color scheme
+        - Dark mode background contrast: True black
 	- Features
         - Workspace borders: Off
 		- Focus mode: On
@@ -117,10 +120,6 @@ Turn on community plugins and click Browse. Install and enable the following plu
 - "Style Settings" by mgmeyers
 	- Minimal
 		- Interface colors
-			- Primary background
-				- Dark: #242424
-			- Secondary background
-				- Dark: #242424
 		- Code and syntax highlighting
 			- Code background color
 				- Dark: #181818
@@ -147,6 +146,8 @@ Turn on community plugins and click Browse. Install and enable the following plu
 				- H6 font variant: Normal
 				- H6 font style: Italic
 		- Text
+            - Normal text color:
+                - Dark: FFFFFF
 			- Italic text color
 				- Light: #6AA196
 				- Dark: #8AB8AF
