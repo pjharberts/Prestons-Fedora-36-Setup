@@ -139,7 +139,7 @@ Right click empty space on the toolbar (same bar as the search bar), and go to C
 	1. Bitwarden
 	2. GSConnect
 	3. Save page with SingleFile
-	4. Dark Reader
+	4. Dark Background and Light Text
 	5. uBlock Origin
 	6. Enhancer for YouTube
 	7. SponsorBlock
