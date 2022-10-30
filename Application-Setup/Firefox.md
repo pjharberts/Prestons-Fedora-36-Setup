@@ -9,7 +9,7 @@ Open Application Menu, and open Settings. Change the following settings:
 	- Device Name: Same as device name
 - General
 	- Language and Appearance
-		- Website appearance: System theme
+		- Website appearance: Automatic
 - Home
 	- New Windows and Tabs: Custom URLs
 		- Homepage and new windows: `about:newtab`
@@ -67,16 +67,12 @@ Open a new tab and right click an empty space on the Bookmarks toolbar. Change t
 
 - Bookmarks Toolbar: Never show
 
-## Theme
-
-Open Settings, and click the Extensions & Themes button at the bottom. Search and install "Oled Borderless Pitch Black" by Andrei Petcu.
-
 ## Extensions
 
 Open Settings, and click the Extensions & Themes button at the bottom. Under the Extensions tab, click "Find more add-ons." Search and install the following extensions:
 
 - "Bitwarden - Free Password Manager" by Bitwarden Inc.
-- "Dark Background and Light Text" by Mikhail Khvoinitsky
+- "Dark Reader" by Alexander Shutau
 - "Enhancer for YouTube" by Maxime RF
 - "GSConnect" by daniellandau
 - "Return YouTube Dislike" by Dmitry Selivanov
@@ -139,7 +135,7 @@ Right click empty space on the toolbar (same bar as the search bar), and go to C
 	1. Bitwarden
 	2. GSConnect
 	3. Save page with SingleFile
-	4. Dark Background and Light Text
+	4. Dark Reader
 	5. uBlock Origin
 	6. Enhancer for YouTube
 	7. SponsorBlock
