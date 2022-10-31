@@ -66,6 +66,9 @@
 Turn on community plugins and click Browse. Install and enable the following plugins, and configure them after having them all installed.
 
 - "Advanced Tables" by Tony Grosinger
+- "Bible Linker" by Jakub Kuchejda
+    - Defaults
+        - Link type default value: Embedded
 - "Bible Reference" by tim-hub
 	- Default Bible Version: "English - English Standard Version @Bolls Life"
 - "Copy button for code blocks" by Daniel Brandenburg
