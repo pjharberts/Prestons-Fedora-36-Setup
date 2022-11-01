@@ -34,7 +34,6 @@
 	- Advanced
 		- Show inline title: Off
 		- Show tab title bar: Off
-		- Window frame style: Obsidian frame
 - Hotkeys
 	- "Templates: Insert template": Ctrl+T
 	- Navigate back: Alt+Left
@@ -101,6 +100,7 @@ Turn on community plugins and click Browse. Install and enable the following plu
 	- Hide status bar: On
 	- Hide vault name: On
     - Hide scroll bars: On
+    - Hide sidebar toggle buttons
 	- Hide metadata block in Reading View: On
 - "Homepage" by mirnovov
 	- Homepage: Create file and enter "Home"
