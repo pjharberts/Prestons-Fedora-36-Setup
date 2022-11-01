@@ -24,6 +24,7 @@
 	- Default location for new attachments: Same folder as current file
 	- Excluded files: Create folder and enter "Templater"
 - Appearance
+    - Theme: Click "Manage" and install the "Minimal" theme by @kepano
 	- Font
 		- Quick font size adjustment: Off
 	- Advanced
@@ -91,8 +92,7 @@ Turn on community plugins and click Browse. Install and enable the following plu
 - "Find and replace in selection" by Dmitry Savosh
 - "Footnote Shortcut" by Alexis Roneau, Micha Brugger
 - "Hider" by @kepano
-    - Hide app ribbon
-    - Hide tab bar
+    - Hide app ribbon: On
 	- Hide status bar: On
 	- Hide vault name: On
     - Hide scroll bars: On
@@ -101,12 +101,60 @@ Turn on community plugins and click Browse. Install and enable the following plu
 - "Homepage" by mirnovov
 	- Homepage: Create file and enter "Home"
 	- Set the hotkey for "Homepage: Open homepage" to Ctrl+Shift+O
+- "Minimal Theme Settings" by @kepano
+    - Features
+        - Focus mode: On
+        - Underline internal links: Off
+		- Underline external links: Off
 - "Obsidian Better Internal Link Inserter" by Salmund
 	- Remove the shortcut for "Insert Markdown Link" and change "Obsidian Better Internal Link Inserter: Insert an internal link" to Ctrl+K
 - "QuickShare" by Maxime Cannoodt (@mcndt)
 - "Quick Latex for Obsidian
 - "Shortcuts extender" by kitchenrunner
 - "Sort & Permute lines" by Vinzent
+- "Style Settings" by mgmeyers
+	- Minimal
+		- Interface colors
+            - Primary background
+                - Dark: #242424
+            - Secondary background:
+                - Dark: #242424
+		- Code and syntax highlighting
+			- Code background color
+				- Dark: #181818
+		- Headings
+			- Level 1 Headings
+				- H1 font size: 2em
+				- H1 font weight: 700
+			- Level 2 Headings
+				- H2 font size: 1.5
+				- H2 font weight: 700
+				- H2 divider line: On
+			- Level 3 Headings
+				- H3 font size: 1.3em
+			- Level 4 Headings
+				- H4 font size: 1.2em
+				- H4 font variant: Normal
+				- H4 font style: Italic
+			- Level 5 Headings
+				- H5 font size: 1.1em
+                - H5 text color: #8AB8AF
+				- H5 font variant: Normal
+				- H5 font style: Italic
+                - H5 divider line: On
+			- Level 6 Headings
+				- H6 font size: 1.1em
+				- H6 font variant: Normal
+				- H6 font style: Italic
+		- Text
+            - Normal text color:
+                - Dark: FFFFFF
+			- Italic text color
+				- Light: #6AA196
+				- Dark: #8AB8AF
+			- Bold text color
+				- Light: #6A71A1
+				- Dark: #8A8FB8
 - "Tag Wrangler" by PJ Eby
 - "Templater" by SilentVoid
 	- Template folder location: Templates
