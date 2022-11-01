@@ -146,8 +146,10 @@ Turn on community plugins and click Browse. Install and enable the following plu
 				- H4 font style: Italic
 			- Level 5 Headings
 				- H5 font size: 1.1em
+                - H5 text color: #8AB8AF
 				- H5 font variant: Normal
 				- H5 font style: Italic
+                - H5 divider line: On
 			- Level 6 Headings
 				- H6 font size: 1.1em
 				- H6 font variant: Normal
