@@ -110,6 +110,7 @@ Turn on community plugins and click Browse. Install and enable the following plu
 - "Tag Wrangler" by PJ Eby
 - "Templater" by SilentVoid
 	- Template folder location: Templates
+    - Automatic jump to cursor: On
 	- Remove and change the hotkey for "Templater: Open Insert Template Modal" to Ctrl+T
 
 ## Fix heading shortcuts
