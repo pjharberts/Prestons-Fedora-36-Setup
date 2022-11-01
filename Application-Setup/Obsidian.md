@@ -18,11 +18,10 @@
 - Files & Links
 	- Confirm file deletion: Off
 	- Automatically update internal links: On
-	- Default location for new notes: Create folder and enter "Inbox"
+	- Default location for new notes: Same folder as current file
     - New link format: Absolute path in vault
 	- Detect all file extensions: On
-	- Default location for new attachments: In the folder specified below
-    - Attachment folder path: Attachments
+	- Default location for new attachments: Same folder as current file
 	- Excluded files: Create folder and enter "Templater"
 - Appearance
 	- Font
@@ -72,8 +71,9 @@ Turn on community plugins and click Browse. Install and enable the following plu
 	- Excalidraw folder: Blank
 	- (!) Excalidraw template file: Templates/Template.excalidraw
 	- Filename
-	  - Custom text after markdown Note's name when embedding: Make sure it is blank and there is no space
-	  - Filename Date: Blank
+        - Custom text after markdown Note's name when embedding: ` Drawing`
+        - Filename Date: Blank
+        - .excalidraw.md or .md: Off
 	- Display
 	  - Left-handed mode: On
 	  - New drawing to match Obsidian theme: On
