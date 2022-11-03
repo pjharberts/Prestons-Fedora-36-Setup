@@ -117,8 +117,6 @@ Turn on community plugins and click Browse. Install and enable the following plu
 		- Interface colors
             - Primary background
                 - Dark: #242424
-            - Secondary background:
-                - Dark: #242424
 		- Code and syntax highlighting
 			- Code background color
 				- Dark: #181818
