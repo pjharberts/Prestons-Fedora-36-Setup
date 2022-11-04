@@ -124,26 +124,37 @@ Turn on community plugins and click Browse. Install and enable the following plu
 			- Level 1 Headings
 				- H1 font size: 2em
 				- H1 font weight: 700
+                - H1 text color
+                    - Dark: #8AB8AF
 			- Level 2 Headings
 				- H2 font size: 1.5
 				- H2 font weight: 700
+                - H2 text color
+                    - Dark: #8A8FB8
 				- H2 divider line: On
 			- Level 3 Headings
 				- H3 font size: 1.3em
+                - H3 text color
+                    - Dark: #8AB8AF
 			- Level 4 Headings
 				- H4 font size: 1.2em
 				- H4 font variant: Normal
 				- H4 font style: Italic
+                - H4 text color
+                    - Dark: #8A8FB8
 			- Level 5 Headings
 				- H5 font size: 1.1em
-                - H5 text color: #8AB8AF
 				- H5 font variant: Normal
 				- H5 font style: Italic
+                - H5 text color
+                    - Dark: #8AB8AF
                 - H5 divider line: On
 			- Level 6 Headings
 				- H6 font size: 1.1em
 				- H6 font variant: Normal
 				- H6 font style: Italic
+                - H6 text color
+                    - Dark: #8A8FB8
 		- Text
             - Normal text color:
                 - Dark: FFFFFF
