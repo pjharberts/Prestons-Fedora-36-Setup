@@ -11,7 +11,7 @@
 ## Options
 
 - Editor
-	- General
+    - Display
 		- Show indentation guides: Off
 	- Advanced
 		- Vim key bindings: On
