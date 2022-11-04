@@ -156,7 +156,7 @@ Turn on community plugins and click Browse. Install and enable the following plu
 				- H6 font variant: Normal
 				- H6 font style: Italic
                 - H6 text color
-                    - Dark: #8AB8AF
+                    - Dark: #8A8FB8
 		- Text
             - Normal text color:
                 - Dark: FFFFFF
