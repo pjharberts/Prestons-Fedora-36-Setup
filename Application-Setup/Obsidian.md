@@ -49,6 +49,8 @@
 
 ## Core Plugins
 
+- Baclinks
+    - Backlink in document: On
 - Daily notes
 	- Date format: YYYYMMDD
 	- New file location: Create folder and enter "Daily"
@@ -125,39 +127,41 @@ Turn on community plugins and click Browse. Install and enable the following plu
 				- H1 font size: 2em
 				- H1 font weight: 700
                 - H1 text color
-                    - Dark: #8AB8AF
+                    - Dark: #8A8FB8
 			- Level 2 Headings
 				- H2 font size: 1.5
 				- H2 font weight: 700
                 - H2 text color
-                    - Dark: #8A8FB8
+                    - Dark: #8AB8AF
 				- H2 divider line: On
 			- Level 3 Headings
 				- H3 font size: 1.3em
                 - H3 text color
-                    - Dark: #8AB8AF
+                    - Dark: #8A8FB8
 			- Level 4 Headings
 				- H4 font size: 1.2em
 				- H4 font variant: Normal
 				- H4 font style: Italic
                 - H4 text color
-                    - Dark: #8A8FB8
+                    - Dark: #8AB8AF
 			- Level 5 Headings
 				- H5 font size: 1.1em
 				- H5 font variant: Normal
 				- H5 font style: Italic
                 - H5 text color
-                    - Dark: #8AB8AF
+                    - Dark: #8A8FB8
                 - H5 divider line: On
 			- Level 6 Headings
 				- H6 font size: 1.1em
 				- H6 font variant: Normal
 				- H6 font style: Italic
                 - H6 text color
-                    - Dark: #8A8FB8
+                    - Dark: #8AB8AF
 		- Text
             - Normal text color:
                 - Dark: FFFFFF
+            - Highlighted text background
+                - Dark: #242424
 			- Italic text color
 				- Light: #6AA196
 				- Dark: #8AB8AF
