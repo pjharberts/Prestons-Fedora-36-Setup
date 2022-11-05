@@ -52,6 +52,9 @@
 - Daily notes
 	- Date format: YYYYMMDD
 	- New file location: Create folder and enter "Daily"
+- Page preview
+    - Require CTRL to trigger page preview on hover
+        - Reading view
 - Quick switcher
 	- Show all file types: On
 - Turn off the Templates plugin
