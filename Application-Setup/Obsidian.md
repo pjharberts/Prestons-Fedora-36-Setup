@@ -68,6 +68,18 @@ Turn on community plugins and click Browse. Install and enable the following plu
 	- Default Bible Version: "English - English Standard Version @Bolls Life"
 - "Copy button for code blocks" by Daniel Brandenburg
 - "Editory Syntax Highlight" by death_au
+- "Easy Typing" by yaozhuwa
+    - Convert Rule (add the following rules)
+        - " i |"; " I |";
+        - " , |"; ", |";
+        - " . |"; ". |";
+        - " " |"; "" |";
+        - " ' |"; "' |";
+        - " i'll |"; " I'll |"
+        - " i'm |"; " I'm |"
+        - " i've |"; "i've |"
+    - Exclude Folders/Files
+        - Exclude Folders/Files: Templates
 - "Excalidraw" by Zsolt Viczian
 	- Excalidraw folder: Blank
 	- (!) Excalidraw template file: Templates/Template.excalidraw
