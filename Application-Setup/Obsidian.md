@@ -49,8 +49,6 @@
 
 ## Core Plugins
 
-- Baclinks
-    - Backlink in document: On
 - Daily notes
 	- Date format: YYYYMMDD
 	- New file location: Create folder and enter "Daily"
