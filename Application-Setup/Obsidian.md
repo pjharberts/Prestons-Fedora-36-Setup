@@ -84,6 +84,9 @@ Turn on community plugins and click Browse. Install and enable the following plu
         - " i'll |"; " I'll |"
         - " i'm |"; " I'm |"
         - " i've |"; "i've |"
+        - ":|"; ": |"
+        - ";|"; "; |"
+        - ")|"; ") |"
     - Exclude Folders/Files
         - Exclude Folders/Files: Templates
 - "Excalidraw" by Zsolt Viczian
