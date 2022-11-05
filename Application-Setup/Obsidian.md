@@ -64,6 +64,9 @@
 Turn on community plugins and click Browse. Install and enable the following plugins, and configure them after having them all installed.
 
 - "Advanced Tables" by Tony Grosinger
+- "Audio Speed Plugin" by kaizau
+    - Audio Speed Settings
+        - Audio Playback Speed: 1 (change when needed)
 - "Bible Linker" by Jakub Kuchejda
     - Defaults
         - Link type default value: Embedded
