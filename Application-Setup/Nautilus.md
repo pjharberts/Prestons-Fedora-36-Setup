@@ -7,7 +7,6 @@ Open Preferences, and change the following settings
 - Menu
 	- Show hidden files: On
 - General
-	- Sort Folders Before Files: On
 	- Action to Open Items: Single click
 
 ## Bookmarks
