@@ -60,6 +60,9 @@ Download the following extensions from this [website](https://extensions.gnome.o
 		- Panel Button Padding Size: 2px
 		- OSD Position: Top Center
 - "Mouse Follows Focus" by LeonMatthes
+- "Mpris Label" by moon-0xff
+    - Left padding: 0
+    - Visible fields and order: title; none; none
 - "Notification Timeout" by chlumskyvaclav
 - "No Titlebar When Maximized" by alecdotninja
 - "Overview Clicking" by mechtifs
