@@ -32,6 +32,7 @@ Download the following extensions from this [website](https://extensions.gnome.o
 - "Date Menu Formatter" by mkakubowski
 	- Pattern: `h:mm  EEE, MMMM d'  '`
 	- Font size: 11
+- "Dell Command Configure menu" by vsimkus
 - "GSConnect" by daniellandau
 - "Just Perfection" by JustPerfection
 	- Profile
