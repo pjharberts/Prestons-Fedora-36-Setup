@@ -177,8 +177,6 @@ Turn on community plugins and click Browse. Install and enable the following plu
                 - H6 text color
                     - Dark: #8A8FB8
 		- Text
-            - Normal text color:
-                - Dark: FFFFFF
             - Highlighted text background
                 - Dark: #242424
 			- Italic text color
