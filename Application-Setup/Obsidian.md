@@ -41,8 +41,8 @@
 	- Toggle bulleted list: Ctrl+Shift+]
 	- Remove "New tab" default
 	- "Daily notes: Open today's daily note": Ctrl+Shift+D
-    - Split down: Alt+E
-    - Split right: Alt+C
+    - Split down: Alt+C
+    - Split right: Alt+E
     - Focus on tab group above: Alt+W
     - Focus on tab group below: Alt+X
     - Focus on tab group to the left: Alt+A

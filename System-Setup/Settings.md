@@ -35,8 +35,9 @@ Open Settings, and change the following:
 	- Screenshots
 		- Take a screenshot interactively: Shift+Ctrl+Alt+S
 	- System
+        - Focus the active notification: Alt+Super+N
         - Show all applications: Super+P
-        - Show the notification list: Super+B
+        - Show the notification list: Super+N
         - Show overview: Disabled
     - Windows
         - Close window: Shift+Escape

@@ -43,7 +43,7 @@ Download the following extensions from this [website](https://extensions.gnome.o
         - Use keyboard shortcuts to activate apps
             - Number overlay: Off
             - Show the dock if it is hidden: Off
-            - Shortcut for the options above: (blank)
+            - Shortcut for the options above: `<Super>b`
         - Click action: Minimize or show previews
     - Appearance
         - Shrink the dash: On
