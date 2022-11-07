@@ -20,6 +20,16 @@ Download the following extensions from this [website](https://extensions.gnome.o
 - "Alphabetical App Grid" by stuarthayhurst
 	- General settings
 		- Position of ordered folders: Start
+- "Blur My Shell
+    - General
+        - Hack level
+            - No artifact
+    - Panel
+        - Compatibility
+            - Hidetopbar extension: On
+    - Applications
+        - Whitelist
+            - Add any windows that do not break
 - "Caffeine" by eon
 	- General
 		- Enable for fullscreen apps: Off
@@ -29,27 +39,44 @@ Download the following extensions from this [website](https://extensions.gnome.o
 - "Cleaner Overview" by gonza_11
 - "Clipboard Indicator" by Tudmotu
 	- Remove whitespace around text: On
+- "Dash to Dock" by michele_g
+    - Position and size
+        - Intelligent autohide
+            - Dodge windows: Off
+        - Icon size limit: 32 px
+    - Behaviour
+        - Use keyboard shortcuts to activate apps
+            - Number overlay: Off
+            - Show the dock if it is hidden: Off
+            - Shortcut for the options above: (blank)
+        - Click action: Minimize or show previews
+    - Appearance
+        - Shrink the dash: On
+        - Show overview on startup: Off
+        - Use built-in theme: On    
 - "Date Menu Formatter" by mkakubowski
 	- Pattern: `h:mm  EEE, MMMM d'  '`
 	- Font size: 11
 - "Dell Command Configure menu" by vsimkus
 - "GSConnect" by daniellandau
+- "Hide Top Bar" by tuxor1337
+    - Sensitiity
+        - Show panel when mouse approaches edge of the screen: On
+    - Keyboard shortcuts
+        - Key that triggers the bar to be shown: Super+T
+    - Intellihide
+        - Only hide panel when a window takes the space: Off
 - "Just Perfection" by JustPerfection
 	- Profile
 		- Profile: Default
 	- Visibility
-		- Panel: Off
 		- Acitivities Button: Off
 		- App Menu: Off
 		- World Clock:  Off
 		- Weather: Off
 		- Events: Off
 		- Search: Off
-		- Dash: Off
-		- Dash Separator: Off
-		- Show Applications Button: Off
 		- Workspace Popup: Off
-		- Workspace Switcher: Off
 		- Workspace App Grid: Off
 		- Window Picker Close Button: Off
 		- Background Menu: Off
@@ -71,24 +98,31 @@ Download the following extensions from this [website](https://extensions.gnome.o
 		- General
 			- Switch workspaces with scroll whell: Over workspaces bar
 	- Shortcuts
-		- Shift+Super+1...0 Move to workspace: On
+        - Open menu: Ctrl+Super+W
 - "Tiling Assistant" by Leleat
 	- General
 		- Tile Groups
 			- Raise together: Off
 	- Keybindings
 		- General
-			- Toggle 'Always on Top': Shift+Super+T
+            - Toggle 'Always on Top': Shift+Super+W
+            - Toggle Maximization: Super+S
+            - Restore Window Size: Shift+Super+S
+            - Move Window to Center: Shift+Ctrl+Super+S
 		- Edge Tiling
-			- Tile to top: Super+K
-			- Tile to bottom: Super+J
-			- Tile to left: Super+H
-			- Tile to right: Super+L
+			- Tile to top: Super+W
+			- Tile to bottom: Super+X
+			- Tile to left: Super+A
+			- Tile to right: Super+D
 		- Edge Tiling
-			- Tile to top-left: Shift+Super+H
-			- Tile to top-right: Shift+Super+J
-			- Tile to bottom-left: Shift+Super+L
-			- Tile to bottom-right: Shift+Super+K
+			- Tile to top-left: Super+Q
+			- Tile to top-right: Super+E
+			- Tile to bottom-left: Super+Z
+			- Tile to bottom-right: Super+C
+    - Advanced
+        - Default Window Movement Mode: Adaptive Tiling
+        - Other Window Movement Settings
+            - Restore Window Size on: Grab end
 - "Volume Scroller" by trflynn89
 
 ## GSConnect Setup

@@ -1,8 +1,8 @@
 # Tweaks
 
-## Hide Close Button For All Windows
+## Hide Close Button in Titlebar
 
-Open Terminal, and run the following command to hide the close button for all windows:
+Open Terminal, and run the following to hide the close button in the titlebar:
 
 ```
 gsettings set org.gnome.desktop.wm.preferences button-layout :

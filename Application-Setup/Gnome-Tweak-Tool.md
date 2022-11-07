@@ -12,12 +12,11 @@ sudo dnf isntall gnome-tweak-tool
 
 Launch the program (Tweaks) and change the following settings:
 
-- Appearance
-	- Legacy Applications: Adwaita-dark
 - Keyboard & Mouse
 	- Mouse
 		- Pointer Location: On
 - Windows
 	- Center New Windows: On
+    - Resize with Secondary-Click: On
 	- Window Focus
 		- Focus on Hover: On

@@ -23,35 +23,33 @@ Open Settings, and change the following:
 	- Touchpad
 		- Tap to Click: On
 - Keyboard
-	- Launchers
-		- Launch email client: Ctrl+Alt+W
-		- Launch web browser: Ctrl+Alt+Q
-		- Settings: Super+I
+    - Launchers
+        - Settings: Super+I
 	- Navigation
-		- Hide all normal windows: Super+D
-		- Switch to workspace 1: Super+1
-		- Switch to workspace 2: Super+2
-		- Switch to workspace 3: Super+3
-		- Switch to workspace 4: Super+4
+		- Hide all normal windows: Super+M
+        - Move to workspace on the left: Shift+Super+A
+        - Move to workspace on the right: Shift+Super+D
+        - Move window one workspace to the left: Shift+Alt+Q
+        - Move window one workspace to the left: Shift+Super+Q
+        - Move window one workspace to the right: Shift+Super+E
 	- Screenshots
-		- Take a screenshot interactively: Shift+Super+S
+		- Take a screenshot interactively: Shift+Ctrl+Alt+S
 	- System
-		- Lockscreen: Shift+Ctrl+Super+L
-		- Show the notification list: Super+V (Change this even if it shows it as Super+V)
-	- Windows
-		- Switch applications: Alt+Tab
-		- Close window: Alt+Shift+Q
-		- Toggle maximization state: Super+M
-		- Toggle fullscreen mode: Shift+Ctrl+Alt+Return
-		- Hide window: Shift+Super+M
-		- Toggle window on all workspaces or one: Super+Tab
-	- Custom Shortcuts
-		- Discord: Discord; Ctrl+Alt+Z
-		- Nautilus; nautilus -w; Super+E
-		- Obsidian; flatpak run md.obsidian.Obsidian; Ctrl+Alt+R
-		- Terminal; gnome-terminal; Ctrl+Alt+A
-		- Todoist; flatpak run com.todoist.Todoist; Ctrl+Alt+E
-		- Typora; flatpak run io.typora.Typora; Ctrl+Alt+T
+        - Show all applications: Super+P
+        - Show the notification list: Super+B
+        - Show overview: Disabled
+    - Windows
+        - Close window: Shift+Escape
+        - Hide winodw: Ctrl+Super+S
+        - Maximize window: Disabled
+        - Move window: Super+G
+        - Raise window if coverd, otherwise lower it: Super+V
+        - Resize window: Super+R
+        - Restore window: Disabled
+        - Toggle fullscreen mode: Super+F
+        - Toggle maximization state: Disabled
+        - View split on left: Disabled
+        - View split on right: Disabled
 - Date & Time
 	- Time Zone: Choose appropriate time zone
     - Time Format: AM/PM

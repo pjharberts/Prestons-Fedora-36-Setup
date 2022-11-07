@@ -35,18 +35,18 @@
 	- "Templates: Insert template": Ctrl+T
 	- Navigate back: Alt+Left
 	- Navigate forward: Alt+Right
-	- Toggle left sidebar: Ctrl+Shift+H
-	- Toggle right sidebar: Ctrl+Shift+L
+	- Toggle left sidebar: Alt+Q
+	- Toggle right sidebar: Alt+Z
 	- Toggle numbered list: Ctrl+Shift+[
 	- Toggle bulleted list: Ctrl+Shift+]
 	- Remove "New tab" default
 	- "Daily notes: Open today's daily note": Ctrl+Shift+D
-    - Split down: Alt+J
-    - Split right: Alt+L
-    - Focus on tab group above: Alt+K
-    - Focus on tab group below: Alt+J
-    - Focus on tab group to the left: Alt+H
-    - Focus on tab group to the right: Alt+L
+    - Split down: Alt+E
+    - Split right: Alt+C
+    - Focus on tab group above: Alt+W
+    - Focus on tab group below: Alt+X
+    - Focus on tab group to the left: Alt+A
+    - Focus on tab group to the right: Alt+D
 
 ## Core Plugins
 
@@ -115,9 +115,10 @@ Turn on community plugins and click Browse. Install and enable the following plu
 	- Set the hotkey for "Homepage: Open homepage" to Ctrl+Shift+O
 - "Minimal Theme Settings" by @kepano
     - Features
-        - Focus mode: On
         - Underline internal links: Off
 		- Underline external links: Off
+    - Hotkeys
+        - Minimal Theme Settings: Toggle focus mode: Alt+T
 - "Obsidian Better Internal Link Inserter" by Salmund
 	- Remove the shortcut for "Insert Markdown Link" and change "Obsidian Better Internal Link Inserter: Insert an internal link" to Ctrl+K
 - "QuickShare" by Maxime Cannoodt (@mcndt)
@@ -129,6 +130,8 @@ Turn on community plugins and click Browse. Install and enable the following plu
 		- Interface colors
             - Primary background
                 - Dark: #242424
+            - Border color
+                - Dark: #4b4b4b
 		- Code and syntax highlighting
 			- Code background color
 				- Dark: #181818
@@ -182,8 +185,8 @@ Turn on community plugins and click Browse. Install and enable the following plu
     - Automatic jump to cursor: On
 	- Remove and change the hotkey for "Templater: Open Insert Template Modal" to Ctrl+T
     - Template Hotkeys
-        - Link to Current File: Ctrl+Alt+Shift+K
-        - Insert Alias: Ctrl+Alt+Shift+A
+        - Link to Current File: Alt+1
+        - Insert Alias: Alt+2
 
 ## Fix heading shortcuts
 
