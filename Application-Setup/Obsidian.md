@@ -75,7 +75,7 @@ Turn on community plugins and click Browse. Install and enable the following plu
 	- Default Bible Version: "English - English Standard Version @Bolls Life"
 - "Copy button for code blocks" by Daniel Brandenburg
 - "Editory Syntax Highlight" by death_au
-- "Easy Typing" by yaozhuwa
+- "Easy Typing" by yaozhuwa (Currently disabled)
     - Convert Rule (add the following rules)
         - " i |"; " I |";
     - Exclude Folders/Files
