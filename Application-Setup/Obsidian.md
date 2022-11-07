@@ -185,8 +185,8 @@ Turn on community plugins and click Browse. Install and enable the following plu
     - Automatic jump to cursor: On
 	- Remove and change the hotkey for "Templater: Open Insert Template Modal" to Ctrl+T
     - Template Hotkeys
-        - Link to Current File: Alt+1
-        - Insert Alias: Alt+2
+        - Link to Current File: Alt+Shift+1
+        - Insert Alias: Alt+Shift+2
 
 ## Fix heading shortcuts
 

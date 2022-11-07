@@ -51,6 +51,14 @@ Open Settings, and change the following:
         - Toggle maximization state: Disabled
         - View split on left: Disabled
         - View split on right: Disabled
+    - Custom shortcuts
+        - New custom shortcut
+            - Name: Hide titlebar
+            - Command: `xprop -f _MOTIF_WM_HINTS 32c -set _MOTIF_WM_HINTS "0x2, 0x0, 0x2, 0x0, 0x0"`
+            - Shortcut: Super+Space
+        - Show titlebar
+        - Command: `xprop -f _MOTIF_WM_HINTS 32c -set _MOTIF_WM_HINTS "0x2, 0x0, 0x1, 0x0, 0x0"`
+        - Shortcut: Alt+Super+Space
 - Date & Time
 	- Time Zone: Choose appropriate time zone
     - Time Format: AM/PM
