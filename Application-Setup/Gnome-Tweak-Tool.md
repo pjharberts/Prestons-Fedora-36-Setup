@@ -15,6 +15,8 @@ Launch the program (Tweaks) and change the following settings:
 - Keyboard & Mouse
 	- Mouse
 		- Pointer Location: On
+- Startup Applications
+    - Add "Start Syncthing"
 - Windows
 	- Center New Windows: On
     - Resize with Secondary-Click: On
