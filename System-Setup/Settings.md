@@ -49,6 +49,7 @@ Open Settings, and change the following:
         - Restore window: Disabled
         - Toggle fullscreen mode: Super+F
         - Toggle maximization state: Disabled
+        - Toggle window on all workspaces or one: Shift+Ctrl+Super+W
         - View split on left: Disabled
         - View split on right: Disabled
     - Custom shortcuts
