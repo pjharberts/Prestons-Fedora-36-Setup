@@ -92,6 +92,7 @@ Download the following extensions from this [website](https://extensions.gnome.o
 		- General
 			- Switch workspaces with scroll whell: Over workspaces bar
 	- Shortcuts
+        - Move to workspace: Off
         - Open menu: Ctrl+Super+W
 - "Tiling Assistant" by Leleat
 	- General
