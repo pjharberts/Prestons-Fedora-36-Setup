@@ -38,7 +38,6 @@ Download the following extensions from this [website](https://extensions.gnome.o
     - Position and size
         - Intelligent autohide
             - Dodge windows: Off
-        - Icon size limit: 32 px
     - Behaviour
         - Use keyboard shortcuts to activate apps
             - Number overlay: Off
