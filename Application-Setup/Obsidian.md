@@ -172,7 +172,9 @@ Turn on community plugins and click Browse. Install and enable the following plu
 				- H6 font style: Italic
                 - H6 text color
                     - Dark: #8A8FB8
-		- Text
+        - Lists and tasks
+            - Strike completed tasks: On
+		 Text
             - Highlighted text background
                 - Dark: #242424
 			- Italic text color
