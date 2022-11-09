@@ -136,6 +136,7 @@ Turn on community plugins and click Browse. Install and enable the following plu
             - `rr:\rightarrrow;`
             - `lb:\leftbrace;`
             - `rb:\rightbrace;`
+            - `bs:\blacksquare`
 - "Shortcuts extender" by kitchenrunner
 - "Sort & Permute lines" by Vinzent
 - "Style Settings" by mgmeyers
