@@ -54,6 +54,7 @@
 - Daily notes
 	- Date format: YYYYMMDD
 	- New file location: Create folder and enter "Daily"
+    - Template file location: `Templates/Note/Daily Note/Daily Note`
 - Page preview
     - Require CTRL to trigger page preview on hover
         - Reading view
@@ -190,6 +191,7 @@ Turn on community plugins and click Browse. Install and enable the following plu
 - "Templater" by SilentVoid
 	- Template folder location: Templates
     - Automatic jump to cursor: On
+    - Trigger Templater on new file creation: On
 	- Remove and change the hotkey for "Templater: Open Insert Template Modal" to Ctrl+T
     - Template Hotkeys
         - Link to Current File: Alt+Shift+1
