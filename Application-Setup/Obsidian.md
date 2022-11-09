@@ -13,9 +13,7 @@
 - Editor
     - Display
 		- Show indentation guides: Off
-    - Behaviour
-        - Auto pair brackets: Off
-        - Auto pair Markdown syntax: Off
+    - Indent using tabs: On
 	- Advanced
 		- Vim key bindings: On
 - Files & Links
@@ -78,11 +76,6 @@ Turn on community plugins and click Browse. Install and enable the following plu
 	- Default Bible Version: "English - English Standard Version @Bolls Life"
 - "Copy button for code blocks" by Daniel Brandenburg
 - "Editory Syntax Highlight" by death_au
-- "Easy Typing" by yaozhuwa (Currently disabled)
-    - Convert Rule (add the following rules)
-        - " i |"; " I |";
-    - Exclude Folders/Files
-        - Exclude Folders/Files: Templates
 - "Excalidraw" by Zsolt Viczian
 	- Excalidraw folder: Blank
 	- (!) Excalidraw template file: Templates/Template.excalidraw
@@ -126,9 +119,6 @@ Turn on community plugins and click Browse. Install and enable the following plu
 	- Remove the shortcut for "Insert Markdown Link" and change "Obsidian Better Internal Link Inserter: Insert an internal link" to Ctrl+K
 - "QuickShare" by Maxime Cannoodt (@mcndt)
 - "Quick Latex for Obsidian
-    - Autoclose {} curly brackets: Off
-    - Autoclose [] square brackets: Off
-    - Autoclose() round brackets: Off
     - Custom Shorthand Parameter (make sure to add a semicolon on the last item)
         - Add the following:
             - `lr:\leftarrow;`
