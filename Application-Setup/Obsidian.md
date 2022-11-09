@@ -14,7 +14,6 @@
     - Display
 		- Show indentation guides: Off
     - Behaviour
-        - Spellcheck: On
         - Auto pair brackets: Off
         - Auto pair Markdown syntax: Off
 	- Advanced
