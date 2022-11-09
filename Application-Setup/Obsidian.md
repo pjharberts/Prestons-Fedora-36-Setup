@@ -130,6 +130,12 @@ Turn on community plugins and click Browse. Install and enable the following plu
     - Autoclose {} curly brackets: Off
     - Autoclose [] square brackets: Off
     - Autoclose() round brackets: Off
+    - Custom Shorthand Parameter (make sure to add a semicolon on the last item)
+        - Add the following:
+            - `lr:\leftarrow;`
+            - `rr:\rightarrrow;`
+            - `lb:\leftbrace;`
+            - `rb:\rightbrace;`
 - "Shortcuts extender" by kitchenrunner
 - "Sort & Permute lines" by Vinzent
 - "Style Settings" by mgmeyers
