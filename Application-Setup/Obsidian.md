@@ -76,6 +76,9 @@ Turn on community plugins and click Browse. Install and enable the following plu
 - "Bible Reference" by tim-hub
 	- Default Bible Version: "English - English Standard Version @Bolls Life"
 - "Copy button for code blocks" by Daniel Brandenburg
+- "Creases" by Liam Cain
+    - Folding
+        - Sync editor folds with outline view: Bidirectionally
 - "Editory Syntax Highlight" by death_au
 - "Excalidraw" by Zsolt Viczian
 	- Excalidraw folder: Blank
@@ -110,6 +113,32 @@ Turn on community plugins and click Browse. Install and enable the following plu
 - "Homepage" by mirnovov
 	- Homepage: Create file and enter "Home"
 	- Set the hotkey for "Homepage: Open homepage" to Ctrl+Shift+O
+- "Linter" by Victor Tao
+    - General
+        - Lint on save: On
+        - Display message on lint: Off
+        - Folders to ignore: Templates
+    - Heading
+        - Capitalize Headings
+            - Headings should be formatted with capitalization: On
+        - Footnote
+            - Re-Index Footnotes: On
+        - Content
+            - Remove Multiple Spaces: On
+        - Spacing
+            - Consecutive blank lines: On
+            - Empty Line Around Code Fences: On
+            - Empty Line Around Math Blocks: On
+            - Empty Line Around Tables: On
+            - Heading blank lines
+                - All headings have a blank line both before and after: On
+            - Remove Empty Lines Between List Markers and Checklists: On
+            - Space after list markers: On
+            - Trailing spaces
+                - Removes extra spaces after every line: On
+        - Paste
+            - Remove Leftover Footnotes from Quote on Paste: On
+            - Remove Multiple Blank Lines on Paste: On
 - "Minimal Theme Settings" by @kepano
     - Features
         - Underline internal links: Off
@@ -127,6 +156,7 @@ Turn on community plugins and click Browse. Install and enable the following plu
             - `lb:\leftbrace;`
             - `rb:\rightbrace;`
             - `bs:\blacksquare`
+- "Remember cursor position" by Dmitry Savosh
 - "Shortcuts extender" by kitchenrunner
 - "Sort & Permute lines" by Vinzent
 - "Style Settings" by mgmeyers
