@@ -13,6 +13,10 @@
 - Editor
     - Display
 		- Show indentation guides: Off
+    - Behaviour
+        - Spellcheck: On
+        - Auto pair brackets: Off
+        - Auto pair Markdown syntax: Off
 	- Advanced
 		- Vim key bindings: On
 - Files & Links
@@ -123,6 +127,9 @@ Turn on community plugins and click Browse. Install and enable the following plu
 	- Remove the shortcut for "Insert Markdown Link" and change "Obsidian Better Internal Link Inserter: Insert an internal link" to Ctrl+K
 - "QuickShare" by Maxime Cannoodt (@mcndt)
 - "Quick Latex for Obsidian
+    - Autoclose {} curly brackets: Off
+    - Autoclose [] square brackets: Off
+    - Autoclose() round brackets: Off
 - "Shortcuts extender" by kitchenrunner
 - "Sort & Permute lines" by Vinzent
 - "Style Settings" by mgmeyers
