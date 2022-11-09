@@ -121,8 +121,6 @@ Turn on community plugins and click Browse. Install and enable the following plu
     - Heading
         - Capitalize Headings
             - Headings should be formatted with capitalization: On
-        - Footnote
-            - Re-Index Footnotes: On
         - Content
             - Remove Multiple Spaces: On
         - Spacing
@@ -130,15 +128,13 @@ Turn on community plugins and click Browse. Install and enable the following plu
             - Empty Line Around Code Fences: On
             - Empty Line Around Math Blocks: On
             - Empty Line Around Tables: On
-            - Heading blank lines
-                - All headings have a blank line both before and after: On
             - Remove Empty Lines Between List Markers and Checklists: On
             - Space after list markers: On
-            - Trailing spaces
-                - Removes extra spaces after every line: On
         - Paste
             - Remove Leftover Footnotes from Quote on Paste: On
             - Remove Multiple Blank Lines on Paste: On
+        - Custom
+            - Tidy Footnotes: Tidy Footnotes
 - "Minimal Theme Settings" by @kepano
     - Features
         - Underline internal links: Off
@@ -231,6 +227,7 @@ Turn on community plugins and click Browse. Install and enable the following plu
     - Template Hotkeys
         - Link to Current File: Alt+Shift+1
         - Insert Alias: Alt+Shift+2
+- "Tidy Footnotes" by Charlie Chao
 
 ## Fix heading shortcuts
 
