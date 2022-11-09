@@ -178,7 +178,12 @@ Turn on community plugins and click Browse. Install and enable the following plu
                     - Dark: #8A8FB8
         - Lists and tasks
             - Strike completed tasks: On
-		 Text
+        - Tabs
+            - Tab text color
+                - Dark: #777777
+            - Tab text color (active)
+                - Dark: #FFFFFF
+		- Text
             - Highlighted text background
                 - Dark: #242424
 			- Italic text color
