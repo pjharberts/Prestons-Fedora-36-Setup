@@ -125,6 +125,7 @@ Turn on community plugins and click Browse. Install and enable the following plu
         - Capitalize Headings
             - Headings should be formatted with capitalization: On
         - Content
+            - Ordered List Style: On
             - Remove Multiple Spaces: On
         - Spacing
             - Consecutive blank lines: On
