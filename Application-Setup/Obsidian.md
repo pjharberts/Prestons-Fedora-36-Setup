@@ -48,6 +48,7 @@
     - Focus on tab group below: Alt+X
     - Focus on tab group to the left: Alt+A
     - Focus on tab group to the right: Alt+D
+    - New tab: Ctrl+T
 
 ## Core Plugins
 
@@ -143,6 +144,8 @@ Turn on community plugins and click Browse. Install and enable the following plu
 		- Underline external links: Off
     - Hotkeys
         - Minimal Theme Settings: Toggle focus mode: Alt+T
+- "New Tab Default Page" by pseudometa
+    - Default New Tab Page: Home
 - "Obsidian Better Internal Link Inserter" by Salmund
 	- Remove the shortcut for "Insert Markdown Link" and change "Obsidian Better Internal Link Inserter: Insert an internal link" to Ctrl+K
 - "QuickShare" by Maxime Cannoodt (@mcndt)
@@ -155,6 +158,9 @@ Turn on community plugins and click Browse. Install and enable the following plu
             - `rb:\rightbrace;`
             - `bs:\blacksquare`
 - "Remember cursor position" by Dmitry Savosh
+- "Reset Font Size" by luckman212
+    - Hotkeys
+        - Reset zoom: Ctrl+0 (clear any previous hotkey)
 - "Shortcuts extender" by kitchenrunner
 - "Sort & Permute lines" by Vinzent
 - "Style Settings" by mgmeyers
@@ -227,6 +233,7 @@ Turn on community plugins and click Browse. Install and enable the following plu
     - Trigger Templater on new file creation: On
 	- Remove and change the hotkey for "Templater: Open Insert Template Modal" to Ctrl+T
     - Template Hotkeys
+        - Templater: Open Insert Template modal: Ctrl+R
         - Link to Current File: Alt+Shift+1
         - Insert Alias: Alt+Shift+2
 - "Tidy Footnotes" by Charlie Chao
