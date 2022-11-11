@@ -5,3 +5,5 @@
 - [ ] Add docker instructions
 - [ ] GTK theme + extension + Obsidian titlebar
 - [ ] Add Dash To Panel
+- [ ] Obsidian side panel layout
+- [ ] Add Workspace names to Space Bar

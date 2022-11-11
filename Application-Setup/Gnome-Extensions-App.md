@@ -20,6 +20,13 @@ Download the following extensions from this [website](https://extensions.gnome.o
 - "Alphabetical App Grid" by stuarthayhurst
 	- General settings
 		- Position of ordered folders: Start
+- "Bing Wallpaper" by neffo
+    - Settings
+        - Selected image: Random image
+    - Lock Screen
+        - Override GDM3 lockscreen effects: On
+        - Presets: GNOME default
+    
 - "Blur My Shell
     - General
     - Panel
@@ -37,20 +44,30 @@ Download the following extensions from this [website](https://extensions.gnome.o
 - "Dash to Dock" by michele_g
     - Position and size
         - Intelligent autohide
+            - Autohide: Off
             - Dodge windows: Off
+    - Launchers
+        - Show Applications icon: Off
+        - Show trash can: Off
+        - Show volumes and devices: Off
     - Behaviour
         - Use keyboard shortcuts to activate apps
             - Number overlay: Off
             - Show the dock if it is hidden: Off
-            - Shortcut for the options above: `<Super>b`
+            - Shortcut for the options above: Blank
         - Click action: Minimize or show previews
+            - Shift+Click action: Launch new instance
+            - Middle-Click action: Quit
+            - Shift+Middle-Click action: Quit
     - Appearance
-        - Shrink the dash: On
         - Show overview on startup: Off
-        - Use built-in theme: On    
+        - Customize opacity: Fixed
+        - Opacity: 0%
 - "Date Menu Formatter" by mkakubowski
-	- Pattern: `h:mm  EEE, MMMM d'  '`
+	- Pattern: `h:mm  EEEE, MMMM d'  '`
 	- Font size: 11
+- "Default Workspace" by MateusRodCosta
+    - Edit metadata.json in the extenstion folder to correspond to Gnome 42
 - "Dell Command Configure menu" by vsimkus
 - "GSConnect" by daniellandau
 - "Hide Top Bar" by tuxor1337
@@ -58,6 +75,7 @@ Download the following extensions from this [website](https://extensions.gnome.o
         - Show panel when mouse approaches edge of the screen: On
     - Keyboard shortcuts
         - Key that triggers the bar to be shown: Super+T
+        - Delay before the bar rehides itself after key press: 2.0
     - Intellihide
         - Only hide panel when a window takes the space: Off
 - "Just Perfection" by JustPerfection
@@ -73,20 +91,26 @@ Download the following extensions from this [website](https://extensions.gnome.o
 		- Workspace Popup: Off
 		- Workspace App Grid: Off
 		- Window Picker Close Button: Off
+        - Window Picker Caption: Off
 		- Background Menu: Off
+    - Icons
+        - App Menu Icon: Off
+        - Panel Notification Icon: Off
 	- Behaviour
 		- Double Super to App Grid: Off
 		- Startup Status: Desktop
 	- Customize
 		- Panel Button Padding Size: 2px
+        - Workspace Switcher Size: 12%
+        - Animation: No Animation
 		- OSD Position: Top Center
 - "Mouse Follows Focus" by LeonMatthes
 - "Mpris Label" by moon-0xff
     - Left padding: 0
     - Visible fields and order: title; none; none
 - "Notification Timeout" by chlumskyvaclav
-- "No Titlebar When Maximized" by alecdotninja
 - "Overview Clicking" by mechtifs
+- "Overview Dash Hide" by rokenz05
 - "Space Bar" by luchrioh
 	- Behaviour
 		- General
@@ -94,6 +118,7 @@ Download the following extensions from this [website](https://extensions.gnome.o
 	- Shortcuts
         - Move to workspace: Off
         - Open menu: Ctrl+Super+W
+    - Rename the 3 workspaces as follows: Left, Primary, Right
 - "Tiling Assistant" by Leleat
 	- General
 		- Tile Groups
@@ -118,6 +143,19 @@ Download the following extensions from this [website](https://extensions.gnome.o
         - Default Window Movement Mode: Adaptive Tiling
         - Other Window Movement Settings
             - Restore Window Size on: Grab end
+- "Unite" by hardpixel
+    - It may be necessary to renable the titlebar buttons by running `gsettings reset org.gnome.desktop.wm.preferences button-layout` in Terminal
+    - General
+        - Extend top bar left box: Off
+        - Show system tray in top bar: Off
+        - Show desktop name in top bar: Off
+        - Restrict functionalities to the primary screen: Off
+        - Enable titlebar actions on top bar click: Off
+        - Hide activities button: Always
+        - Hide window titlebars: Always
+        - Show window title in app menu: Never
+        - Show window buttons in top bar: Never
+        - Notifications messages position: Center
 - "Volume Scroller" by trflynn89
 
 ## GSConnect Setup

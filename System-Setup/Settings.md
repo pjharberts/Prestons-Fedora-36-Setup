@@ -10,6 +10,7 @@ Open Settings, and change the following:
 - Multitasking
 	- Hot Corner: Off
 	- Workspaces: Fixed number of workspaces
+    - Number of Workspaces: 3
 - Privacy
 	- Screen Lock
 		- Automatic Screen Lock Delay: 5 minutes
@@ -52,14 +53,6 @@ Open Settings, and change the following:
         - Toggle window on all workspaces or one: Shift+Ctrl+Super+W
         - View split on left: Disabled
         - View split on right: Disabled
-    - Custom shortcuts
-        - New custom shortcut
-            - Name: Hide titlebar
-            - Command: `xprop -f _MOTIF_WM_HINTS 32c -set _MOTIF_WM_HINTS "0x2, 0x0, 0x2, 0x0, 0x0"`
-            - Shortcut: Super+Space
-        - Show titlebar
-        - Command: `xprop -f _MOTIF_WM_HINTS 32c -set _MOTIF_WM_HINTS "0x2, 0x0, 0x1, 0x0, 0x0"`
-        - Shortcut: Alt+Super+Space
 - Date & Time
 	- Time Zone: Choose appropriate time zone
     - Time Format: AM/PM
