@@ -105,9 +105,6 @@ Download the following extensions from this [website](https://extensions.gnome.o
         - Animation: No Animation
 		- OSD Position: Top Center
 - "Mouse Follows Focus" by LeonMatthes
-- "Mpris Label" by moon-0xff
-    - Left padding: 0
-    - Visible fields and order: title; none; none
 - "Notification Timeout" by chlumskyvaclav
 - "Overview Clicking" by mechtifs
 - "Overview Dash Hide" by rokenz05
