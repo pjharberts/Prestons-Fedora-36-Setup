@@ -88,6 +88,8 @@ Download the following extensions from this [website](https://extensions.gnome.o
 		- Weather: Off
 		- Events: Off
 		- Search: Off
+        - Dash Separator: Off
+        - Show Applications Button: Off
 		- Workspace Popup: Off
 		- Workspace App Grid: Off
 		- Window Picker Close Button: Off
