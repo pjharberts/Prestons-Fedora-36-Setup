@@ -71,8 +71,6 @@ Download the following extensions from this [website](https://extensions.gnome.o
 - "Dell Command Configure menu" by vsimkus
 - "GSConnect" by daniellandau
 - "Hide Top Bar" by tuxor1337
-    - Sensitiity
-        - Show panel when mouse approaches edge of the screen: On
     - Keyboard shortcuts
         - Key that triggers the bar to be shown: Super+T
         - Delay before the bar rehides itself after key press: 2.0
