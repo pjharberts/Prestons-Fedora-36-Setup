@@ -22,7 +22,7 @@ Download the following extensions from this [website](https://extensions.gnome.o
 		- Position of ordered folders: Start
 - "Bing Wallpaper" by neffo
     - Settings
-        - Selected image: Random image
+        - Indicator icon: low-frame-symbolic
     - Lock Screen
         - Override GDM3 lockscreen effects: On
         - Presets: GNOME default
