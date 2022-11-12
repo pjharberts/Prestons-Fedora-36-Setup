@@ -46,6 +46,10 @@ Download the following extensions from this [website](https://extensions.gnome.o
         1. Show Activities Overview
     - Top-Right Hot Corner
         1. Show Activities Overview
+    - Bottom-Left Hot Corner
+        1. Show Activities Overview
+    - Bottom-Right Hot Corner
+        1. Show Activities Overview
 - "Dash to Dock" by michele_g
     - Position and size
         - Intelligent autohide
