@@ -41,13 +41,17 @@ Download the following extensions from this [website](https://extensions.gnome.o
 - "Cleaner Overview" by gonza_11
 - "Clipboard Indicator" by Tudmotu
 	- Remove whitespace around text: On
+- "Custom Hot Corners - Extended" by GdH
+    - Top-Left Hot Corner
+        1. Show Activities Overview
+    - Top-Right Hot Corner
+        1. Show Activities Overview
 - "Dash to Dock" by michele_g
     - Position and size
         - Intelligent autohide
             - Autohide: Off
             - Dodge windows: Off
     - Launchers
-        - Show Applications icon: Off
         - Show trash can: Off
         - Show volumes and devices: Off
     - Behaviour
@@ -71,6 +75,8 @@ Download the following extensions from this [website](https://extensions.gnome.o
 - "Dell Command Configure menu" by vsimkus
 - "GSConnect" by daniellandau
 - "Hide Top Bar" by tuxor1337
+    - Sensitivity
+        - Keep hotcorner sensitive, even in hidden state: On
     - Keyboard shortcuts
         - Key that triggers the bar to be shown: Super+T
         - Delay before the bar rehides itself after key press: 2.0
@@ -87,22 +93,22 @@ Download the following extensions from this [website](https://extensions.gnome.o
 		- Events: Off
 		- Search: Off
         - Dash Separator: Off
-        - Show Applications Button: Off
 		- Workspace Popup: Off
 		- Workspace App Grid: Off
 		- Window Picker Close Button: Off
         - Window Picker Caption: Off
 		- Background Menu: Off
+        - Ripple Box: Off
     - Icons
         - App Menu Icon: Off
         - Panel Notification Icon: Off
 	- Behaviour
-		- Double Super to App Grid: Off
+        - Double Super to App Grid: Off
 		- Startup Status: Desktop
 	- Customize
 		- Panel Button Padding Size: 2px
         - Workspace Switcher Size: 12%
-        - Animation: No Animation
+        - Animation: Faster
 		- OSD Position: Top Center
 - "Mouse Follows Focus" by LeonMatthes
 - "Notification Timeout" by chlumskyvaclav

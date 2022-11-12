@@ -8,7 +8,6 @@ Open Settings, and change the following:
 	- Style: Dark
 	- Background: Choose any background
 - Multitasking
-	- Hot Corner: Off
 	- Workspaces: Fixed number of workspaces
     - Number of Workspaces: 3
 - Privacy
@@ -33,13 +32,16 @@ Open Settings, and change the following:
         - Move window one workspace to the left: Shift+Alt+Q
         - Move window one workspace to the left: Shift+Super+Q
         - Move window one workspace to the right: Shift+Super+E
+        - Switch applications: Alt+Tab
+        - Switch windows of an application: Alt+`
 	- Screenshots
 		- Take a screenshot interactively: Shift+Ctrl+Alt+S
 	- System
-        - Focus the active notification: Alt+Super+N
-        - Show all applications: Super+P
-        - Show the notification list: Super+N
+        - Focus the active notification: Shift+Super+Tab
+        - Show all applications: Super+`
+        - Show the notification list: Super+Tab
         - Show overview: Disabled
+        - Show the run command prompt: Super+Space
     - Windows
         - Close window: Shift+Escape
         - Hide winodw: Ctrl+Super+S
