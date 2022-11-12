@@ -138,3 +138,18 @@ Right click empty space on the toolbar (same bar as the search bar), and go to C
 	6. Enhancer for YouTube
 	7. SponsorBlock
 	8. Return YouTube Dislike
+
+## userChrome CSS
+
+Press `Alt` while in Firefox, and click Help then Troubleshooting. Click Open Directory next to Profile Folder. Open the folder in Terminal, and run the following to create and edit `userChrome.css`:
+
+```
+mkdir chrome
+vim userChrome.css
+```
+
+Enter `about:config` into the URL bar in Firefox, and search for `userprof` in the search bar. Double-click the following item to change it from false to true:
+
+```
+toolkit.legacyUserProfileCustomizations.stylesheets
+```
