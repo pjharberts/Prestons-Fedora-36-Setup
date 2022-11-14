@@ -30,7 +30,7 @@ Download the following extensions from this [website](https://extensions.gnome.o
         - Button Location: System Menu
 - "Bing Wallpaper" by neffo (Currently Disabled)
     - Settings
-        - Indicator icon: low-frame-symbolic
+        - Hide the indicator: On
     - Lock Screen
         - Override GDM3 lockscreen effects: On
         - Presets: GNOME default
