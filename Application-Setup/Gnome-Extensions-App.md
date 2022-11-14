@@ -117,7 +117,8 @@ Download the following extensions from this [website](https://extensions.gnome.o
 		- Profile: Default
 	- Visibility
 		- Acitivities Button: Off
-		- App Menu: Off
+		- App Menu: On
+        - App Menu Label: On
 		- World Clock:  Off
 		- Weather: Off
 		- Events: Off
@@ -191,10 +192,6 @@ Download the following extensions from this [website](https://extensions.gnome.o
         - Show window title in app menu: Never
         - Show window buttons in top bar: Never
         - Notifications messages position: Center
-- "Vitals" by corecoding
-    - General
-        - Position in panel: Left
-        - Hide icons in top bar: On
 - "Volume Scroller" by trflynn89
 - "Workspace Switcher Manager" by GdH
     - Pop-up
