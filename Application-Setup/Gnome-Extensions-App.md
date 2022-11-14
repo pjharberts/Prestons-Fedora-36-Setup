@@ -39,6 +39,9 @@ Download the following extensions from this [website](https://extensions.gnome.o
 - "Blur My Shell
     - General
     - Panel
+        - Panel blur
+            - Customize propoerties: On
+                - Color: #252525
         - Compatibility
             - Hidetopbar extension: On
 - "Burn My Windows" by Simme
@@ -103,6 +106,8 @@ Download the following extensions from this [website](https://extensions.gnome.o
     - Overview Options
         - Opacity of active workspace: 100
         - Opacity of inactive workspaces: 0
+- "Frippery Applications Menu" by rmyorston
+    - Icon: Off
 - "GSConnect" by daniellandau
 - "Hide Top Bar" by tuxor1337 (Currently disabled)
     - Sensitivity
@@ -116,7 +121,7 @@ Download the following extensions from this [website](https://extensions.gnome.o
 	- Profile
 		- Profile: Default
 	- Visibility
-		- Acitivities Button: Off
+        - Activities Button: Off
 		- App Menu: On
         - App Menu Label: On
 		- World Clock:  Off
@@ -143,10 +148,6 @@ Download the following extensions from this [website](https://extensions.gnome.o
         - Clock Menu Position Offset: 9
         - Workspace Switcher Size: 12%
 		- OSD Position: Center
-- "Logo Menu" by Aryan_K
-    - Icon Settings
-        - Icon: Choose monochrome OS icon
-        - Icon Size
 - "Mouse Follows Focus" by LeonMatthes
 - "Notification Timeout" by chlumskyvaclav
 - "Overview Clicking" by mechtifs
@@ -155,6 +156,8 @@ Download the following extensions from this [website](https://extensions.gnome.o
     - History Length: 100
     - Global Shortcut: Super+V
     - Show Indicator: Off
+- "Replace Activities text with username" by deserts
+- "Smart Auto Move" by khimaros
 - "Tiling Assistant" by Leleat
 	- General
 		- Tile Groups

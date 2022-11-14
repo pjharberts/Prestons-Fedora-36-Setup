@@ -24,38 +24,41 @@ Open Settings, and change the following:
 	- Touchpad
 		- Tap to Click: On
 - Keyboard
-    - Launchers
-        - Settings: Super+I
-	- Navigation
-		- Hide all normal windows: Super+M
-        - Move to workspace on the left: Shift+Super+A
-        - Move to workspace on the right: Shift+Super+D
-        - Move window one workspace to the left: Shift+Alt+Q
-        - Move window one workspace to the left: Shift+Super+Q
-        - Move window one workspace to the right: Shift+Super+E
-        - Switch applications: Alt+Tab
-        - Switch windows of an application: Alt+`
-	- Screenshots
-		- Take a screenshot interactively: Shift+Ctrl+Alt+S
-	- System
-        - Focus the active notification: Shift+Super+Tab
-        - Show all applications: Super+`
-        - Show the notification list: Super+Tab
-        - Show overview: Disabled
-        - Show the run command prompt: Super+Space
-    - Windows
-        - Close window: Shift+Escape
-        - Hide window: Super+X
-        - Maximize window: Disabled
-        - Move window: Super+G
-        - Raise window if coverd, otherwise lower it: Shift+Super+V
-        - Resize window: Super+R
-        - Restore window: Disabled
-        - Toggle fullscreen mode: Super+F
-        - Toggle maximization state: Disabled
-        - Toggle window on all workspaces or one: Shift+Ctrl+Super+W
-        - View split on left: Disabled
-        - View split on right: Disabled
+    - Special Character Entry
+        - Alternate Characters Key: Right Super
+    - View and Customize Shortcuts
+        - Launchers
+            - Settings: Super+I
+    	- Navigation
+    		- Hide all normal windows: Super+M
+            - Move to workspace on the left: Shift+Super+A
+            - Move to workspace on the right: Shift+Super+D
+            - Move window one workspace to the left: Shift+Alt+Q
+            - Move window one workspace to the left: Shift+Super+Q
+            - Move window one workspace to the right: Shift+Super+E
+            - Switch applications: Alt+Tab
+            - Switch windows of an application: Alt+`
+	    - Screenshots
+		    - Take a screenshot interactively: Shift+Ctrl+Alt+S
+	    - System
+            - Focus the active notification: Shift+Super+Tab
+            - Show all applications: Super+`
+            - Show the notification list: Super+Tab
+            - Show overview: Disabled
+            - Show the run command prompt: Super+Space
+        - Windows
+            - Close window: Shift+Escape
+            - Hide window: Super+X
+            - Maximize window: Disabled
+            - Move window: Super+G
+            - Raise window if coverd, otherwise lower it: Shift+Super+V
+            - Resize window: Super+R
+            - Restore window: Disabled
+            - Toggle fullscreen mode: Super+F
+            - Toggle maximization state: Disabled
+            - Toggle window on all workspaces or one: Shift+Ctrl+Super+W
+            - View split on left: Disabled
+            - View split on right: Disabled
 - Date & Time
 	- Time Zone: Choose appropriate time zone
     - Time Format: AM/PM
