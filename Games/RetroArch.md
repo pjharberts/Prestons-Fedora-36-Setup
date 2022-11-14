@@ -12,13 +12,15 @@ flatpak install --user flathub org.libretro.RetroArch
 
 - Video
     - Fullscreen Mode
-        - Start in Fullscreen Mode: On
         - Window Fullscreen Mode: Off
+    - Windowed Mode
+        - Show Window Decorations: Off
 - Input
     - Menu Controls
         - Menu Swap OK and Cancel Buttons: On
         - Disable Info Button: On
         - Disable Search Button: On
+    - Automatic Mouse Grab: On
 - Saving
     - Sort Saves into Folders by Core Name: On
     - Sort Save States into Folders by Core Name: On
@@ -58,7 +60,7 @@ flatpak install --user flathub org.libretro.RetroArch
         - Style of Date and Time: HH:MM (AM/PM)
         - Show Core Name: Off
     - Appearance
-        - Menu Scale Factor: 0.90x (or whatever is comfortable)
+        - Collapse the Sidebar: On
 - Playlists
     - Truncate Playlist Names (Restart Required): Off
 - User
