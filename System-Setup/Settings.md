@@ -7,9 +7,6 @@ Open Settings, and change the following:
 - Appearance
 	- Style: Dark
 	- Background: Choose any background
-- Multitasking
-	- Workspaces: Fixed number of workspaces
-    - Number of Workspaces: 3
 - Privacy
 	- Screen Lock
 		- Automatic Screen Lock Delay: 5 minutes
@@ -48,10 +45,10 @@ Open Settings, and change the following:
         - Show the run command prompt: Super+Space
     - Windows
         - Close window: Shift+Escape
-        - Hide winodw: Ctrl+Super+S
+        - Hide window: Super+X
         - Maximize window: Disabled
         - Move window: Super+G
-        - Raise window if coverd, otherwise lower it: Super+V
+        - Raise window if coverd, otherwise lower it: Shift+Super+V
         - Resize window: Super+R
         - Restore window: Disabled
         - Toggle fullscreen mode: Super+F

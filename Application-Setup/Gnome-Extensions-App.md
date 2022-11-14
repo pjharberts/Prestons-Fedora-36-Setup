@@ -20,33 +20,48 @@ Download the following extensions from this [website](https://extensions.gnome.o
 - "Alphabetical App Grid" by stuarthayhurst
 	- General settings
 		- Position of ordered folders: Start
+- "Autohide Volume" by t184256
 - "Bedtime Mode" by ionutbortis
     - Automatic Schedule: On
         - Start Time: 21:00
         - End Time: 6:00
     - On-Demand
         - Show Button: On Active Schedule
-- "Bing Wallpaper" by neffo
+        - Button Location: System Menu
+- "Bing Wallpaper" by neffo (Currently Disabled)
     - Settings
         - Indicator icon: low-frame-symbolic
     - Lock Screen
         - Override GDM3 lockscreen effects: On
         - Presets: GNOME default
-    
+    - Debug options
+        - Always show new images: On (Use the tray icon to switch)
 - "Blur My Shell
     - General
     - Panel
         - Compatibility
             - Hidetopbar extension: On
+- "Burn My Windows" by Simme
+    - Also Add Effects to Dialogs: On
+    - Disable Fire and Glide when closing windows
+    - Glide
+        - Use this effect when opening windows: On
+        - Use this effect when closing windows: On
+        - Animating Time [ms]: 200 (or as close as you can get)
 - "Caffeine" by eon
 	- General
 		- Enable for fullscreen apps: Off
+        - Toggle shortcut: Shift+Super+C
 	- Apps
 		- Apps that trigger Caffeine
 			- Pomodoro
 - "Cleaner Overview" by gonza_11
-- "Clipboard Indicator" by Tudmotu
-	- Remove whitespace around text: On
+- "Compiz alike magic lamp effect" by hermes83
+    - Duration (ms): 250
+- "Compiz windows effects" by hermes83
+    - Spring: 10.0
+    - Mass: 70
+    - Maximize effect: Off
 - "Custom Hot Corners - Extended" by GdH
     - Top-Left Hot Corner
         1. Show Activities Overview
@@ -78,13 +93,18 @@ Download the following extensions from this [website](https://extensions.gnome.o
         - Customize opacity: Fixed
         - Opacity: 0%
 - "Date Menu Formatter" by mkakubowski
-	- Pattern: `h:mm  EEEE, MMMM d'  '`
+	- Pattern: `EEE K:mm aaa '  '`
 	- Font size: 11
-- "Default Workspace" by MateusRodCosta
-    - Edit metadata.json in the extenstion folder to correspond to Gnome 42
 - "Dell Command Configure menu" by vsimkus
+- "Desktop Cube" by Simme
+    - General Options
+        - Transition time from desktop to overview [ms]: 250
+        - Transition time between workspaces [ms]: 350
+    - Overview Options
+        - Opacity of active workspace: 100
+        - Opacity of inactive workspaces: 0
 - "GSConnect" by daniellandau
-- "Hide Top Bar" by tuxor1337
+- "Hide Top Bar" by tuxor1337 (Currently disabled)
     - Sensitivity
         - Keep hotcorner sensitive, even in hidden state: On
     - Keyboard shortcuts
@@ -113,38 +133,40 @@ Download the following extensions from this [website](https://extensions.gnome.o
         - App Menu Icon: Off
         - Panel Notification Icon: Off
 	- Behaviour
+        - Window Demands Attention Focus
         - Double Super to App Grid: Off
 		- Startup Status: Desktop
 	- Customize
 		- Panel Button Padding Size: 2px
+        - Clock Menu Position: Right
+        - Clock Menu Position Offset: 9
         - Workspace Switcher Size: 12%
-        - Animation: Faster
-		- OSD Position: Top Center
+		- OSD Position: Center
+- "Logo Menu" by Aryan_K
+    - Icon Settings
+        - Icon: Choose monochrome OS icon
+        - Icon Size
 - "Mouse Follows Focus" by LeonMatthes
 - "Notification Timeout" by chlumskyvaclav
 - "Overview Clicking" by mechtifs
-- "Overview Dash Hide" by rokenz05
-- "Space Bar" by luchrioh
-	- Behaviour
-		- General
-			- Switch workspaces with scroll whell: Over workspaces bar
-	- Shortcuts
-        - Move to workspace: Off
-        - Open menu: Ctrl+Super+W
-    - Rename the 3 workspaces as follows: Left, Primary, Right
+- "Pano - Clipboard Manager" by alperenelhan
+    - Open Terminal, and run the following to install dependencies: `sudo dnf install libgda libgda-sqlite`
+    - History Length: 100
+    - Global Shortcut: Super+V
+    - Show Indicator: Off
 - "Tiling Assistant" by Leleat
 	- General
 		- Tile Groups
 			- Raise together: Off
 	- Keybindings
 		- General
-            - Toggle 'Always on Top': Shift+Super+W
+            - Toggle 'Always on Top': Super+W
             - Toggle Maximization: Super+S
             - Restore Window Size: Shift+Super+S
             - Move Window to Center: Shift+Ctrl+Super+S
 		- Edge Tiling
-			- Tile to top: Super+W
-			- Tile to bottom: Super+X
+			- Tile to top: Shift+Super+W
+			- Tile to bottom: Shift+Super+X
 			- Tile to left: Super+A
 			- Tile to right: Super+D
 		- Edge Tiling
@@ -169,7 +191,25 @@ Download the following extensions from this [website](https://extensions.gnome.o
         - Show window title in app menu: Never
         - Show window buttons in top bar: Never
         - Notifications messages position: Center
+- "Vitals" by corecoding
+    - General
+        - Position in panel: Left
+        - Hide icons in top bar: On
 - "Volume Scroller" by trflynn89
+- "Workspace Switcher Manager" by GdH
+    - Pop-up
+        - On-Screen Time (ms): 500
+        - Fade Out Time (ms): 400
+    - Size & Text
+        - Global Scale (%): 125
+    - Colors
+        - Allow Custom Colors: On
+            - Active WS Background color / opacity: #474747
+    - Content
+        - Pop-Up Active Workspace Indicator Content
+            - Show Workspace Index: Off
+        - Pop-Up Inactive Workspace Indicator Content
+            - Show Workspace Index: Off
 
 ## GSConnect Setup
 
