@@ -106,8 +106,6 @@ Download the following extensions from this [website](https://extensions.gnome.o
     - Overview Options
         - Opacity of active workspace: 100
         - Opacity of inactive workspaces: 0
-- "Frippery Applications Menu" by rmyorston
-    - Icon: Off
 - "GSConnect" by daniellandau
 - "Hide Top Bar" by tuxor1337 (Currently disabled)
     - Sensitivity
