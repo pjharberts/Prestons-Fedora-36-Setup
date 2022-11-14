@@ -14,6 +14,11 @@ flatpak install --user flathub org.libretro.RetroArch
     - Fullscreen Mode
         - Start in Fullscreen Mode: On
         - Window Fullscreen Mode: Off
+- Input
+    - Menu Controls
+        - Menu Swap OK and Cancel Buttons: On
+        - Disable Info Button: On
+        - Disable Search Button: On
 - Saving
     - Sort Saves into Folders by Core Name: On
     - Sort Save States into Folders by Core Name: On
