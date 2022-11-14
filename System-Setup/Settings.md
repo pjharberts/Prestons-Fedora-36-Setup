@@ -19,6 +19,10 @@ Open Settings, and change the following:
     - Power Saving Options
         - Automatic Screen Brightness: Off
         - Dim Screen: Off
+- Displays
+    - Night Light
+        - Schedule: Manual Schedule
+        - Times: From 6:00 PM to 8:00 AM
 - Mouse & Touchpad
 	- Touchpad
 		- Tap to Click: On

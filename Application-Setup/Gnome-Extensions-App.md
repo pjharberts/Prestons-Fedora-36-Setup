@@ -20,6 +20,12 @@ Download the following extensions from this [website](https://extensions.gnome.o
 - "Alphabetical App Grid" by stuarthayhurst
 	- General settings
 		- Position of ordered folders: Start
+- "Bedtime Mode" by ionutbortis
+    - Automatic Schedule: On
+        - Start Time: 21:00
+        - End Time: 6:00
+    - On-Demand
+        - Show Button: On Active Schedule
 - "Bing Wallpaper" by neffo
     - Settings
         - Indicator icon: low-frame-symbolic
