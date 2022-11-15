@@ -40,6 +40,7 @@ Download the following extensions from this [website](https://extensions.gnome.o
     - General
     - Panel
         - Panel blur: Off
+- "Bring Out Submenu Of Power Off/Logout Button" by pratap@fastmail.fm
 - "Burn My Windows" by Simme
     - Also Add Effects to Dialogs: On
     - Disable Fire and Glide when closing windows
@@ -92,7 +93,7 @@ Download the following extensions from this [website](https://extensions.gnome.o
         - Customize opacity: Fixed
         - Opacity: 0%
 - "Date Menu Formatter" by mkakubowski
-	- Pattern: `EEE d MMM  K:mm aaa`
+	- Pattern: `EEE d MMM  K:mm aaa'    '`
 	- Font size: 10
 - "Dell Command Configure menu" by vsimkus
 - "Desktop Cube" by Simme
@@ -102,7 +103,6 @@ Download the following extensions from this [website](https://extensions.gnome.o
     - Overview Options
         - Opacity of active workspace: 100
         - Opacity of inactive workspaces: 0
-- "Gnome-Shutdown Button" by kirby_33
 - "GSConnect" by daniellandau
 - "Hide Top Bar" by tuxor1337 (Currently disabled)
     - Sensitivity
@@ -149,16 +149,6 @@ Download the following extensions from this [website](https://extensions.gnome.o
         - Icon Size: 18px
 - "Maximize To Empty Workspace" by kaiseracm
 - "Mouse Follows Focus" by LeonMatthes
-- "Mpris Label" by moon-0xff
-    - Mpris Label Extension Preferences
-        - Left padding: 0
-        - Right padding: 0
-        - Max string length (each field): 100
-        - Extension index: 10
-        - Extension place: Left
-        - Button place holder: Music
-        - Divider String: 4 spaces
-        - Visible fields and order: title; artist; album
 - "Notification Timeout" by chlumskyvaclav
 - "Overview Clicking" by mechtifs
 - "Pano - Clipboard Manager" by alperenelhan
@@ -167,7 +157,12 @@ Download the following extensions from this [website](https://extensions.gnome.o
     - Global Shortcut: Super+V
     - Show Indicator: Off
 - "Power Profiles Indicator" by krst
-- "Replace Activities text with username" by deserts
+- "Replace Activities Text" by pratap@fastmail.fm
+    - Change Activities Text with Logo and Your Preferred Text
+        - Logo: Use the Fedora logo with the "Logo Menu" extension by Aryan_K
+        - Text: User's full name with 2 spaces at the beginning
+        - Adjust Icon Size: Adjust so there is room at the top and bottom
+        - Right Click on 'Activities' Area Opens Extension Prefs: On
 - "Sound Input & Output Device Chooser" by kgshank
     - General Settings
         - Integrate selector with slider: On
