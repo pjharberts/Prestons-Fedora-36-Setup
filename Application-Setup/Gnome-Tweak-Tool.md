@@ -16,6 +16,23 @@ Download and install the [McMojave GTK theme](https://github.com/vinceliuice/Moj
 ./install.sh -i fedora -c dark -o solid -t grey -a standard -lr
 ```
 
+Follow the GitHub instructions to install the Firefox theme. Customize `userChrome.css` and make the following changes:
+
+- Hide the tab bar when only one tab is open
+- Limit the URL bar's autocompletion popup's width to the URL bar's width
+- Rounded title buttons
+- Use system theme icons instead of Adwaita icons included by theme
+
+Append the following to the end of `userChrome.css` to hide the list all tabs button:
+
+```
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+#tabbrowser-tabs ~ #alltabs-button {display:none!important;}
+```
+
+Delete lines 9-12 in `Mojave/parts/csd.css` to remove the rounded window corners.
+
 Download the [McMojave cursors](https://www.gnome-look.org/p/1355701), and unzip the contents to `~/.local/share/icons/`
 
 ## Settings
