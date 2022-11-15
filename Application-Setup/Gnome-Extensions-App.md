@@ -39,7 +39,11 @@ Download the following extensions from this [website](https://extensions.gnome.o
 - "Blur My Shell
     - General
     - Panel
-        - Panel blur: Off
+        - Panel blur
+            - Customize properties
+                - Color: #1A1C21
+            - Disable in overview: On
+            - Override background: Off
 - "Bring Out Submenu Of Power Off/Logout Button" by pratap@fastmail.fm
 - "Burn My Windows" by Simme
     - Also Add Effects to Dialogs: On
@@ -91,8 +95,11 @@ Download the following extensions from this [website](https://extensions.gnome.o
             - Shift+Middle-Click action: Quit
     - Appearance
         - Show overview on startup: Off
+        - Customize windows counter indicators: Dots
+            - Customize indicator style: On
         - Customize opacity: Fixed
-        - Opacity: 0%
+        - Customize the dash color: #242424
+        - Opacity: 50%
 - "Date Menu Formatter" by mkakubowski
     - First, edit the metadata for Gnome 43
 	- Pattern: `EEE K:mm aaa'    '`
