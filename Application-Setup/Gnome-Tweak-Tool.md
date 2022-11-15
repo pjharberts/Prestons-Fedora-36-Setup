@@ -13,7 +13,7 @@ sudo dnf isntall gnome-tweak-tool
 Download and install the [McMojave GTK theme](https://github.com/vinceliuice/Mojave-gtk-theme), then open Terminal. Run the following:
 
 ```
-./install.sh -i fedora -c dark -o solid -t grey -a standard -lr
+./install.sh -i fedora -c dark -o standard -t default -a standard
 ```
 
 Follow the GitHub instructions to install the Firefox theme. Customize `userChrome.css` and make the following changes:
@@ -40,9 +40,9 @@ Download the [McMojave cursors](https://www.gnome-look.org/p/1355701), and unzip
 Launch the program (Tweaks) and change the following settings:
 
 - Appearance
-    - Shell: Mojave-Dark-solid
+    - Shell: Mojave-Dark
     - Cursor: McMojave-cursors
-    - Legacy Applications: Mojave-Dark-solid
+    - Legacy Applications: Mojave-Dark
 - Keyboard & Mouse
 	- Mouse
 		- Pointer Location: On
