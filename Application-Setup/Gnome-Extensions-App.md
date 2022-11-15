@@ -56,6 +56,7 @@ Download the following extensions from this [website](https://extensions.gnome.o
 		- Apps that trigger Caffeine
 			- Pomodoro
 - "Cleaner Overview" by gonza_11
+    - First, edit the metadata for Gnome 43
 - "Compiz alike magic lamp effect" by hermes83
     - Duration (ms): 250
 - "Compiz windows effects" by hermes83
@@ -93,9 +94,9 @@ Download the following extensions from this [website](https://extensions.gnome.o
         - Customize opacity: Fixed
         - Opacity: 0%
 - "Date Menu Formatter" by mkakubowski
+    - First, edit the metadata for Gnome 43
 	- Pattern: `EEE K:mm aaa'    '`
 	- Font size: 10
-- "Dell Command Configure menu" by vsimkus
 - "Desktop Cube" by Simme
     - General Options
         - Transition time from desktop to overview [ms]: 250
@@ -149,18 +150,27 @@ Download the following extensions from this [website](https://extensions.gnome.o
         - Icon Size: 18px
 - "Maximize To Empty Workspace" by kaiseracm
 - "Mouse Follows Focus" by LeonMatthes
+    - First, edit the metadata for Gnome 43
 - "Notification Timeout" by chlumskyvaclav
-- "Overview Clicking" by mechtifs
 - "Pano - Clipboard Manager" by alperenelhan
     - Open Terminal, and run the following to install dependencies: `sudo dnf install libgda libgda-sqlite`
     - History Length: 100
     - Global Shortcut: Super+V
     - Show Indicator: Off
 - "Power Profiles Indicator" by krst
-- "Sound Input & Output Device Chooser" by kgshank
-    - General Settings
-        - Integrate selector with slider: On
-        - Hide selector if there's only one device: On
+- "Quick Settings Tweaker" by qwreey75
+    - Notifications
+        - Visible: Off
+    - Media Controls
+        - Visible: Off
+    - Quick Toggles
+        - Add more buttons
+            - DND Quick Toggle: Off
+        - Buttons to remove
+            - DarkModeToggle: On
+    - Other
+        - Remove Notifictions On Date Menu: Off
+        - Remove Media Control On Date Menu: Off
 - "Tiling Assistant" by Leleat
 	- General
 		- Tile Groups
