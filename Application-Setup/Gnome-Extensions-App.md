@@ -10,7 +10,7 @@ sudo dnf install gnome-extensions-app
 
 ## Built-In Extensions
 
-Disable the "Background Logo" extension and the "Launch new instance" extension.
+Disable the "Background Logo" extension and the "Launch new instance" extension. Enable Applications Menu and Places Status Indicator.
 
 ## Manually Installed Extensions
 
@@ -40,8 +40,10 @@ Download the following extensions from this [website](https://extensions.gnome.o
     - General
     - Panel
         - Panel blur
-            - Customize propoerties: On
-                - Color: #252525
+            - Customize properties: On
+                - Sigma: 200
+                - Brightness: 0.20
+            - Disable in overview: Off
         - Compatibility
             - Hidetopbar extension: On
 - "Burn My Windows" by Simme
@@ -96,8 +98,8 @@ Download the following extensions from this [website](https://extensions.gnome.o
         - Customize opacity: Fixed
         - Opacity: 0%
 - "Date Menu Formatter" by mkakubowski
-	- Pattern: `EEE K:mm aaa '  '`
-	- Font size: 11
+	- Pattern: `EEE d MMM  K:mm aaa`
+	- Font size: 10
 - "Dell Command Configure menu" by vsimkus
 - "Desktop Cube" by Simme
     - General Options
@@ -106,6 +108,7 @@ Download the following extensions from this [website](https://extensions.gnome.o
     - Overview Options
         - Opacity of active workspace: 100
         - Opacity of inactive workspaces: 0
+- "Gnome-Shutdown Button" by kirby_33
 - "GSConnect" by daniellandau
 - "Hide Top Bar" by tuxor1337 (Currently disabled)
     - Sensitivity
@@ -146,7 +149,21 @@ Download the following extensions from this [website](https://extensions.gnome.o
         - Clock Menu Position Offset: 9
         - Workspace Switcher Size: 12%
 		- OSD Position: Center
+- "Logo Menu" by Aryan_K
+    - Icon Settings
+        - Icon: Choose corresponding grayscale OS icon
+        - Icon Size: 18px
+- "Maximize To Empty Workspace" by kaiseracm
 - "Mouse Follows Focus" by LeonMatthes
+- "Mpris Label" by moon-0xff
+    - Mpris Label Extension Preferences
+        - Left padding: 0
+        - Right padding: 0
+        - Extension index: 1
+        - Extension place: Left
+        - Button place holder: Empty
+        - Divider String: Empty
+        - Visible fields and order: title; none; none
 - "Notification Timeout" by chlumskyvaclav
 - "Overview Clicking" by mechtifs
 - "Pano - Clipboard Manager" by alperenelhan
@@ -154,8 +171,13 @@ Download the following extensions from this [website](https://extensions.gnome.o
     - History Length: 100
     - Global Shortcut: Super+V
     - Show Indicator: Off
+- "Power Profiles Indicator" by krst
 - "Replace Activities text with username" by deserts
 - "Smart Auto Move" by khimaros
+- "Sound Input & Output Device Chooser" by kgshank
+    - General Settings
+        - Integrate selector with slider: On
+        - Hide selector if there's only one device: On
 - "Tiling Assistant" by Leleat
 	- General
 		- Tile Groups
@@ -193,6 +215,7 @@ Download the following extensions from this [website](https://extensions.gnome.o
         - Show window title in app menu: Never
         - Show window buttons in top bar: Never
         - Notifications messages position: Center
+- "User Themes" by fmuellner
 - "Volume Scroller" by trflynn89
 - "Workspace Switcher Manager" by GdH
     - Pop-up
