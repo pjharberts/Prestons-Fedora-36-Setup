@@ -153,11 +153,11 @@ Download the following extensions from this [website](https://extensions.gnome.o
     - Mpris Label Extension Preferences
         - Left padding: 0
         - Right padding: 0
-        - Extension index: 1
+        - Extension index: 10
         - Extension place: Left
-        - Button place holder: Empty
-        - Divider String: Empty
-        - Visible fields and order: title; none; none
+        - Button place holder: Music
+        - Divider String: 4 spaces
+        - Visible fields and order: title; artist; album
 - "Notification Timeout" by chlumskyvaclav
 - "Overview Clicking" by mechtifs
 - "Pano - Clipboard Manager" by alperenelhan
