@@ -153,6 +153,7 @@ Download the following extensions from this [website](https://extensions.gnome.o
     - Mpris Label Extension Preferences
         - Left padding: 0
         - Right padding: 0
+        - Max string length (each field): 100
         - Extension index: 10
         - Extension place: Left
         - Button place holder: Music
