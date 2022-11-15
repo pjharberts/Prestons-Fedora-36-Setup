@@ -39,13 +39,7 @@ Download the following extensions from this [website](https://extensions.gnome.o
 - "Blur My Shell
     - General
     - Panel
-        - Panel blur
-            - Customize properties: On
-                - Sigma: 200
-                - Brightness: 0.20
-            - Disable in overview: Off
-        - Compatibility
-            - Hidetopbar extension: On
+        - Panel blur: Off
 - "Burn My Windows" by Simme
     - Also Add Effects to Dialogs: On
     - Disable Fire and Glide when closing windows
@@ -173,7 +167,6 @@ Download the following extensions from this [website](https://extensions.gnome.o
     - Show Indicator: Off
 - "Power Profiles Indicator" by krst
 - "Replace Activities text with username" by deserts
-- "Smart Auto Move" by khimaros
 - "Sound Input & Output Device Chooser" by kgshank
     - General Settings
         - Integrate selector with slider: On
