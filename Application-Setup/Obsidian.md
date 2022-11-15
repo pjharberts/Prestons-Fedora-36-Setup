@@ -170,9 +170,9 @@ Turn on community plugins and click Browse. Install and enable the following plu
             - Primary background
                 - Dark: #242424
             - Secondary background
-                - Dark: #1e1e1e
+                - Dark: #313131
             - Border color
-                - Dark: #4b4b4b
+                - Dark: #575758
 		- Code and syntax highlighting
 			- Code background color
 				- Dark: #181818
