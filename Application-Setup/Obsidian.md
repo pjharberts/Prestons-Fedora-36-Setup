@@ -30,7 +30,6 @@
 	- Font
 		- Quick font size adjustment: Off
 	- Advanced
-		- Show inline title: Off
 		- Show tab title bar: Off
 - Hotkeys
 	- "Templates: Insert template": Ctrl+T
