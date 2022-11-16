@@ -11,6 +11,13 @@ Open Preferences, and change the following settings:
 
 - General
 	- Visible Columns
-        - Last played: On
-        - Rating: On
-        - Year: On
+        - Genre: Off
+        - Track number: Off
+- Plugins
+    - Song Lyrics: On
+        - Preferences
+            - Search engines
+                - Dark Lyrics: On
+                - Jlyric: On
+                - Jetlyrics: On
+            - Lyrics folder: `~/Music/Lyrics`
