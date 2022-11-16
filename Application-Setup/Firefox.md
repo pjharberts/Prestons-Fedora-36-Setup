@@ -127,7 +127,6 @@ Right click empty space on the toolbar (same bar as the search bar), and go to C
 - Remove the Firefox account button
 - Remove the New Tab button next to the open tabs
 - Remove the Homepage button
-- Remove the Reload button
 - Drag all extensions to the Overflow Menu in this order:
 
 	1. Bitwarden
