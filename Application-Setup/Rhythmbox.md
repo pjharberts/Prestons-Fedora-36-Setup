@@ -17,6 +17,7 @@ Open Preferences, and change the following settings:
     - Song Lyrics: On
         - Preferences
             - Search engines
+                - TerraBrasil: On
                 - Dark Lyrics: On
                 - Jlyric: On
                 - Jetlyrics: On
