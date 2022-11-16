@@ -6,10 +6,11 @@ Order the Dash to Dock with in the order of the following programs:
 - Tutanota
 - Todoist
 - Obsidian
-- Bitwarden
 - Terminal
 - Nautilus
 - Tresorit
 - Syncthing
+- Bitwarden
 - Rhythmbox
 - PyCharm
+- MongoDB Compass
