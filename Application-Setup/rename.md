@@ -2,7 +2,7 @@
 
 ## Installation
 
-Open Terminal, and run the following to install rename:
+Open Terminal, and run `cpan`. Run the following to install rename:
 
 ```
 install Module::Build
