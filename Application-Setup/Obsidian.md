@@ -20,10 +20,8 @@
 	- Confirm file deletion: Off
 	- Automatically update internal links: On
 	- Default location for new notes: Same folder as current file
-    - New link format: Absolute path in vault
 	- Detect all file extensions: On
-	- Default location for new attachments: In the folder specified below
-    - Attachment folder path: Inbox
+	- Default location for new attachments: Same folder as current file
 	- Excluded files: Create folder and enter "Templates"
 - Appearance
     - Theme: Click "Manage" and install the "Minimal" theme by @kepano
