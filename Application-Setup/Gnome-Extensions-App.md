@@ -112,14 +112,6 @@ Download the following extensions from this [website](https://extensions.gnome.o
         - Opacity of active workspace: 100
         - Opacity of inactive workspaces: 0
 - "GSConnect" by daniellandau
-- "Hide Top Bar" by tuxor1337 (Currently disabled)
-    - Sensitivity
-        - Keep hotcorner sensitive, even in hidden state: On
-    - Keyboard shortcuts
-        - Key that triggers the bar to be shown: Super+T
-        - Delay before the bar rehides itself after key press: 2.0
-    - Intellihide
-        - Only hide panel when a window takes the space: Off
 - "Just Perfection" by JustPerfection
 	- Profile
 		- Profile: Default
@@ -155,7 +147,7 @@ Download the following extensions from this [website](https://extensions.gnome.o
     - Icon Settings
         - Icon: Choose corresponding grayscale OS icon
         - Icon Size: 18px
-- "Maximize To Empty Workspace" by kaiseracm
+- "Maximize To Empty Workspace" by kaiseracm (currently disabled)
 - "Mouse Follows Focus" by LeonMatthes
     - First, edit the metadata for Gnome 43
 - "Notification Timeout" by chlumskyvaclav
