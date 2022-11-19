@@ -45,7 +45,7 @@ Open Settings, and change the following:
             - Show all applications: Super+`
             - Show the notification list: Super+Tab
             - Show overview: Disabled
-            - Show the run command prompt: Super+Space
+            - Show the run command prompt: Alt+Super+Space
         - Windows
             - Close window: Shift+Escape
             - Hide window: Super+X
