@@ -125,7 +125,6 @@ Download the following extensions from this [website](https://extensions.gnome.o
 		- Search: Off
         - Dash Separator: Off
 		- Workspace Popup: Off
-		- Workspace App Grid: Off
 		- Window Picker Close Button: Off
         - Window Picker Caption: Off
 		- Background Menu: Off
@@ -170,6 +169,15 @@ Download the following extensions from this [website](https://extensions.gnome.o
     - Other
         - Remove Notifictions On Date Menu: Off
         - Remove Media Control On Date Menu: Off
+- "Search Light" by icedman
+    - General
+        - Keybindings
+            - Search: Super+Space
+        - Multi-Monitor
+            - Popup at Cursor Monitor: On
+    - Appearance
+        - Background
+            - Background Color: #242424 85% opacity
 - "Tiling Assistant" by Leleat
 	- General
 		- Tile Groups
