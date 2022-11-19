@@ -241,8 +241,7 @@ Turn on community plugins and click Browse. Install and enable the following plu
 	- Remove and change the hotkey for "Templater: Open Insert Template Modal" to Ctrl+T
     - Template Hotkeys
         - Templater: Open Insert Template modal: Ctrl+R
-        - Link to Current File: Alt+Shift+1
-        - Insert Alias: Alt+Shift+2
+        - Insert Alias: Alt+Shift+1
 - "Tidy Footnotes" by Charlie Chao
 
 ## Fix heading shortcuts

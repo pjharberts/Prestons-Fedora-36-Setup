@@ -14,6 +14,11 @@ Move the file to `~/Applications/appimages`, and execute the file.
 
 Go to Settings, and change the following settings:
 
+- Email
+    - Default sender: Enter personal email
+    - Default delivery: Not confidential
+    - Email signature
+        - Enter personal signature and save
 - Appearance
 	- Settings for this device
 		- Switch color theme: Dark
