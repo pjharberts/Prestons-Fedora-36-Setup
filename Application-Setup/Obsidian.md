@@ -19,9 +19,11 @@
 - Files & Links
 	- Confirm file deletion: Off
 	- Automatically update internal links: On
-	- Default location for new notes: Same folder as current file
+	- Default location for new notes: In the folder specified below
+    - Folder to create new notes in: Create folder and enter "Inbox"
 	- Detect all file extensions: On
-	- Default location for new attachments: Same folder as current file
+	- Default location for new attachments: In the folder specified below
+    - Attachment folder path: Inbox
 	- Excluded files: Create folder and enter "Templates"
 - Appearance
     - Theme: Click "Manage" and install the "Minimal" theme by @kepano
