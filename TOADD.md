@@ -51,3 +51,9 @@
 - gnome extension "search light" by icedman. keybinding ctrl+space. #424242 color
 - Obsidian, same folder as current file for notes and attachments. add internal link hotkey Ctrl+Alt+K. Correct Quick Latex brace shorthands to be just the escape sequences, change templater shortcuts for contents, definition, references, related, and insert alias, and generic note too. Remoce home and default newtab extensions. Add shortcut for "with space" templates" and insert filename tempalte. change secondary background color to #242424, disable inline file title, and disable focus mode. Remove Creases, Bible Reference, Shortcut Extender. Set header level shortcuts to Ctrl+Alt. Delete minimal theme and install adwaita > style settings: window buttons enable never, icons never. 110% screen zoom and 18 font size; Hider: Toggle tab bar hotkey Alt+Shift+T
 - Install Money by NickVision with flatpak install flathub org.nickvision.money from https://flathub.org/apps/details/org.nickvision.money
+- Terminal: Monospace 12; Use colors from system; Theme variant: Default
+- Remove Mojave theme
+- Just Perfection: Default workspace switcher size; Default animation speed
+- 18px Logo menu icon size, and choose gnome symbol
+- Blur My Shell: Light Overview components style; panel -> override background -> background style: Transparent; Disable in overview: On; Hidetopbar extension: On
+- Install Hide Top Bar by tuxor1337; Intellihide turn off Only when the active window takes the space; Ctrl+Alt+T keyboard shortcut
