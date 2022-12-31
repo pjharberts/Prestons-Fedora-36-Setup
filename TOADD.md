@@ -53,8 +53,8 @@
 - Install Money by NickVision with flatpak install flathub org.nickvision.money from https://flathub.org/apps/details/org.nickvision.money
 - Terminal: Monospace 12; Use colors from system; Theme variant: Default
 - Remove Mojave theme
-- Just Perfection: Default workspace switcher size; Default animation speed; Notification banner position: Top Center
-- 18px Logo menu icon size, and choose gnome symbol
+- Just Perfection: Default workspace switcher size; Default animation speed; Notification banner position: Top Center; Workspace app grid: Off
+- 18px Logo menu icon size; Other Options -> Enable power options, show lock screen option
 - Blur My Shell: Light Overview components style; panel -> override background -> background style: Transparent
 - Install Hide Top Bar by tuxor1337; Intellihide turn off Only when the active window takes the space; Ctrl+Alt+T keyboard shortcut; Show panel when moust approaches edge of the screen: On
 - Date Menu Formatter: 11pt font
@@ -63,3 +63,4 @@
 - Hide Workspace Thumbnails extension by edh 
 - Fixed Number of Workspaces: 1
 - Remove all workspace shortcuts and refactor existing shortcuts to replace them
+- Static background in overview extension by dz4k
