@@ -72,7 +72,7 @@
 - Static background in overview extension by dz4k
 - Disable User Themes
 - Disable Tiling Assistant
-- Download G4Music; prefer dark theme: off; show audio peak level off
+- Download G4Music; prefer dark theme: off; show audio peak level off; no blur
 - Date Menu Formatter: EEE,  MMMM d  K:mm aaa
 - Terminal 25 rows
 - Remove BlurMyShell
@@ -84,9 +84,7 @@
 - Floating Panel by Aylur
 - Aylur's Widgets by Aylur
     - Disable every option except for battery bar and bg clock
-    clock: %l:%M
-    140 x offset
-    date %A size 42
+    clock: %l:%M; 50 x offset
     - Battery bar: left 3
         show icon: Off
         show percentage off
@@ -99,7 +97,7 @@
 - Just Perfect: disable power icon in icons
 - remove alphabetical app grid, autohide battery, cleaner overview, static background in overview
 - tweaks: window action key: alt
-  raise windows when focused: on
+- Click to focus; disable mouse follows focus; disable show panel when mouse approaches edge of screen; Ctrl+Alt+Shift+T to show Top Bar in Hide Top Bar; close window hotkey as Ctrl+Escape in settings
 - keyd:
 
 git clone https://github.com/rvaiya/keyd
@@ -118,7 +116,7 @@ sudo systemctl enable keyd && sudo systemctl start keyd
 # Maps capslock to escape when pressed and control when held.
 capslock = overload(control, esc)
 
-meta = overload(meta, M-space)
+meta = overload(meta, C-A-S-space)
 
 
 sudo keyd reload
@@ -146,6 +144,7 @@ color: black;
 in ~/.themes/Light-Top-Bar/gnome-shell/gnome-shell.css. Select it in Tweaks
 
 - ArcMenu extension
+ - 
  - Menu
   - 500 height
   - Menu layout: runner (Under launcher menu layouts)
@@ -154,6 +153,12 @@ in ~/.themes/Light-Top-Bar/gnome-shell/gnome-shell.css. Select it in Tweaks
   - unpin all aps
   - (old) pin firefox, tuta, todo, obsi, term, files, tres, syncth, bitw, calc, money, and amberol in this order
  - hidden menu button
+ RUNNER: show frequent apps; 12 font size
+- install logiops: sudo dnf install cmake libevdev-devel systemd-devel libconfig-devel gcc-c++. Copy the config file. TODO
+- Install AATWS Advanced Alt-Tab Window Switcher
+  up/down arrow keys: toggle single app mode. delay showing switcher 150. tooltip titles disabled. hot edge position disabled.
+  window switcher -> show workspace index: off. 72 windo icon size
+  app switcher -> include favorite apps and show apps icon: off. show window counter: off. 72 app icon size
 
 ## Settings
 
